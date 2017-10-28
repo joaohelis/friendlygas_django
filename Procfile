@@ -1,1 +1,1 @@
-web: gunicorn friendlygas_project.wsgi
+web: python manage.py runserver
