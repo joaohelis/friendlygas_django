@@ -323,10 +323,10 @@ class OrionClient(object):
         print json.dumps(data, cls=self.DateTimeEncoder)
 
         url = (self.orion_query_url)
-        print url
+        url += '?limit=300'
         r = self.do_request(
                 'post',
-                self.orion_query_url,
+                url,
                 None,
                 data = json.dumps(data, cls=self.DateTimeEncoder),
                 )

@@ -1,1 +1,0 @@
-# friendlygas_django
