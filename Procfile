@@ -1,1 +1,0 @@
-web: gunicorn friendlygas_project.wsgi
