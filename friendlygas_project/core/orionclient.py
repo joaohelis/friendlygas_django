@@ -372,7 +372,7 @@ class OrionClient(object):
             )
 
     def update_attributes(self, entity_id, attributes_map):
-        for attribute, value in attributes_map:
+        for attribute, value in attributes_map.iteritems():
             self.update_attribute(entity_id, attribute, value)
 
     def delete_entity(self, entity_id):
