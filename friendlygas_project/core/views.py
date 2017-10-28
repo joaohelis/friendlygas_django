@@ -44,9 +44,9 @@ def near_gas_stations(request):
 
 def update_entity_attributes(request):
 	orion_client = get_orion_client()
-	entity_id = request.POST.get('entity_id', None)
-	attributes = request.POST.get('attributes', None)
-	response = {}
+	entity_id = request.GET.get('entity_id', None)
+	attributes = request.GET.get('attributes', None)
+	attributes = json.loads(attributes)
 	try:
 		orion_client.update_attributes(entity_id, attributes)
 		response['code'] = 'OK'
