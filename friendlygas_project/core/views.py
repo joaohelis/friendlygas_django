@@ -40,3 +40,17 @@ def near_gas_stations(request):
 	orion_client = get_orion_client()
 	near_gas_stations = orion_client.query_entity('GasStation', latitude, longitude, radius)	
 	return JsonResponse(near_gas_stations)
+
+
+def update_entity_attributes(request):
+	orion_client = get_orion_client()
+	entity_id = request.POST.get('entity_id', None)
+	attributes = request.POST.get('attributes', None)
+	response = {}
+	try:
+		orion_client.update_attributes(entity_id, attributes)
+		response['code'] = 'OK'
+	except:
+		response['code'] = 'ERROR'
+	return JsonResponse(response)
+
