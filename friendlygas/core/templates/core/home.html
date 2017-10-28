@@ -1,0 +1,131 @@
+{% extends "core/base.html" %}
+
+{% block content %}
+
+<script>
+    $(document).ready(function(){
+        function getLocation() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(showPosition)
+            } else {
+                console.log("Geolocation is not supported by this browser.");
+            }
+        }
+
+        function nearGasStations(position, map) {
+            $.ajax({
+                url: '{% url "core:near_gas_stations" %}',
+                data: {
+                  'latitude': position.coords.latitude,
+                  'longitude': position.coords.longitude,
+                  'radius': 1000
+                },
+                dataType: 'json',
+                success: function (data) {
+
+                    window.data = data
+
+                    $.each(data, function(key, value){
+                        var position = value.position.split(",").map(function (x) { return parseFloat(x); });
+                        var uluru = {lat: position[0], lng: position[1]};
+                        value.position = uluru;
+                        createMarker(value, map)
+
+    
+                        /*$.each(value, function(key, value){
+                            console.log(key, value);
+                        });*/
+                    });                   
+                },
+                error: function(data){
+                    console.log(data);
+                }
+            });                 
+        }         
+        
+        function showPosition(position) {
+            var uluru = {lat: position.coords.latitude, lng: position.coords.longitude};
+            var map = new google.maps.Map(document.getElementById('gMapsDiv'), {
+                zoom: 15,
+                center: uluru
+            });
+            
+            marker_info = {
+                name: 'Minha Localização',
+                position: uluru
+            }
+
+            createMarker(marker_info, map);
+            nearGasStations(position, map);
+            createCircle(uluru, map)
+        }
+        
+        function createMarker(marker_info, map) {
+
+            console.log(marker_info)  
+            console.log(marker_info.position)
+
+            var contentString = '<div id="infoWindow">'+
+                '<div>'+
+                '<p><span class="font-weight-bold">' + marker_info.name + '</span></p>' +
+                '<p><span class="font-weight-bold">Preço:</span> R$ 3,85</p>' +
+                '<p class="stars-font-size">' +
+                '<i class="fa fa-star customStar"></i>' +
+                '<i class="fa fa-star customStar"></i>' +
+                '<i class="fa fa-star customStar"></i>' +
+                '<i class="fa fa-star-half-o customStar"></i>' +
+                '<i class="fa fa-star-o customStar"></i>' +
+                '</p>' +
+                '</div>'+
+                '</div>';
+
+            var infowindow = new google.maps.InfoWindow({
+                content: contentString
+            });
+
+            var icon = {
+                path: mapIcons.SQUARE_PIN,
+                fillColor: '#00CCBB',
+                fillOpacity: 1,
+                strokeColor: '',
+                strokeWeight: 0
+            }        
+
+            var marker = new mapIcons.Marker({
+                position: marker_info.position,
+                map: map,
+                icon: {
+                    path: mapIcons.SQUARE_PIN,
+                    fillColor: '#00CCBB',
+                    fillOpacity: 1,
+                    strokeColor: '',
+                    strokeWeight: 0
+                },
+                map_icon_label: '<span class="map-icon map-icon-gas-station"></span>'
+            });
+            marker.addListener('click', function() {
+                infowindow.open(map, marker);
+            });
+        }
+        
+        function createCircle(position, map) {
+            var cityCircle = new google.maps.Circle({
+                strokeColor: '#FF0000',
+                strokeOpacity: 0.5,
+                strokeWeight: 2,
+                fillColor: '#FF0000',
+                fillOpacity: 0.20,
+                map: map,
+                center: position,
+                radius: 1000
+            });
+        }
+               
+
+        getLocation()
+    })
+</script>
+
+<div id="gMapsDiv"></div>
+
+{% endblock %}
