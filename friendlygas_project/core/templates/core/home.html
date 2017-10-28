@@ -4,6 +4,9 @@
 
 <script>
     $(document).ready(function(){
+
+        var MY_LOCALIZATION = "Minha Localização"
+
         function getLocation() {
             if (navigator.geolocation) {
                 navigator.geolocation.getCurrentPosition(showPosition)
@@ -18,7 +21,7 @@
                 data: {
                   'latitude': position.coords.latitude,
                   'longitude': position.coords.longitude,
-                  'radius': 3000
+                  'radius': 1500
                 },
                 dataType: 'json',
                 success: function (data) {
@@ -45,7 +48,7 @@
             });
             
             marker_info = {
-                name: 'Minha Localização',
+                name: MY_LOCALIZATION,
                 position: uluru
             }
 
@@ -73,7 +76,10 @@
                 </div>
                 </div>`;
 
-            var contentString = '<div id="infoWindow">'+
+
+            var contentString, infowindow
+            if (marker_info.name != MY_LOCALIZATION) {
+                contentString = '<div id="infoWindow">'+
                 '<div>'+
                 '<p><span class="font-weight-bold">' + marker_info.name + '</span></p>' +
                 '<p><span class="font-weight-bold">Preço:</span> R$ 3,85</p>' +
@@ -86,22 +92,20 @@
                 '</p>' +
                 '</div>'+
                 '</div>';
+                infowindow = new google.maps.InfoWindow({
+                    content: contentString
+                });
+            }
 
-            var infowindow = new google.maps.InfoWindow({
-                content: contentString
-            });
+            var icon
+            if (marker_info.name != MY_LOCALIZATION) {
+                icon = "http://maps.google.com/mapfiles/kml/shapes/gas_stations.png"            
+            }
 
-            var icon = {
-                path: mapIcons.SQUARE_PIN,
-                fillColor: '#00CCBB',
-                fillOpacity: 1,
-                strokeColor: '',
-                strokeWeight: 0
-            }        
-
-            var marker = new mapIcons.Marker({
+            var marker = new google.maps.Marker({
                 position: marker_info.position,
-                map: map,              
+                map: map,
+                icon: icon,
                 map_icon_label: '<span class="map-icon map-icon-gas-station"></span>'
             });
             marker.addListener('click', function() {
@@ -118,7 +122,7 @@
                 fillOpacity: 0.20,
                 map: map,
                 center: position,
-                radius: 3000
+                radius: 1500
             });
         }
                
