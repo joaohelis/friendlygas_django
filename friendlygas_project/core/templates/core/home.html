@@ -58,11 +58,9 @@
         }
         
         function createMarker(marker_info, map) {
+            console.log(marker_info)
 
-            console.log(marker_info)  
-            console.log(marker_info.position)
-
-
+            var starsMedia = calculateStarsMedia(marker_info.star_votes)
             var contentString = `<div id="infoWindow">
                 <p><span class="font-weight-bold">{0}</span></p>
                 <p><span class="font-weight-bold">Preço:</span>R$ {1}</p>
@@ -82,16 +80,19 @@
                 contentString = '<div id="infoWindow">'+
                 '<div>'+
                 '<p><span class="font-weight-bold">' + marker_info.name + '</span></p>' +
-                '<p><span class="font-weight-bold">Preço:</span> R$ 3,85</p>' +
-                '<p class="stars-font-size">' +
-                '<i class="fa fa-star customStar"></i>' +
-                '<i class="fa fa-star customStar"></i>' +
-                '<i class="fa fa-star customStar"></i>' +
-                '<i class="fa fa-star-half-o customStar"></i>' +
-                '<i class="fa fa-star-o customStar"></i>' +
-                '</p>' +
-                '</div>'+
-                '</div>';
+                '<p><span class="font-weight-bold">Preço:</span> R$ ' + marker_info.price + '</p>' +
+                '<p class="stars-font-size">'
+
+                for (i = 0; i < Math.floor(starsMedia); i++) {
+                    contentString += '<i class="fa fa-star"></i>'
+                }
+
+                for (i = 0; i < 5 - Math.floor(starsMedia); i++) {
+                   contentString += '<i class="fa fa-star-o"></i>'
+                }
+
+                contentString += ' (' + starsMedia +') </p> </div> </div>';
+
                 infowindow = new google.maps.InfoWindow({
                     content: contentString
                 });
@@ -108,9 +109,12 @@
                 icon: icon,
                 map_icon_label: '<span class="map-icon map-icon-gas-station"></span>'
             });
-            marker.addListener('click', function() {
-                infowindow.open(map, marker);
-            });
+
+            if (marker_info.name != MY_LOCALIZATION) {
+                marker.addListener('click', function() {
+                    infowindow.open(map, marker);
+                });
+            }
         }
         
         function createCircle(position, map) {
@@ -124,6 +128,18 @@
                 center: position,
                 radius: 1500
             });
+        }
+
+        function calculateStarsMedia(star_votes) {
+            var peso = 0
+            var somaVotos = 0
+            var media
+            $.each(star_votes, function(key, value){
+                peso = peso + (key * parseInt(value))
+                somaVotos = somaVotos + parseInt(value)
+            });
+            media = parseFloat(peso / somaVotos).toFixed(2)
+            return media
         }
                
 
