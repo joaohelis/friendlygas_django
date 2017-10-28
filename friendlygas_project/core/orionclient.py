@@ -357,6 +357,7 @@ class OrionClient(object):
                 return None
         return resp["attributes"][0]["value"]
 
+
     def update_attribute(self, entity_id, attribute, newdata):
         '''update_attribute(
                     'entity_id',
@@ -369,6 +370,10 @@ class OrionClient(object):
             None,
             data = json.dumps({"value": newdata}),
             )
+
+    def update_attributes(self, entity_id, attributes_map):
+        for attribute, value in attributes_map:
+            self.update_attribute(entity_id, attribute, value)
 
     def delete_entity(self, entity_id):
         '''delete_entity('entity_id')
