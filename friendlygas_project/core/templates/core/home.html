@@ -143,15 +143,16 @@
                 });
             }
 
-            // var icon
-            // if (marker_info.name != MY_LOCALIZATION) {
-            //     icon = "http://maps.google.com/mapfiles/kml/shapes/gas_stations.png?raw=true"
-            // }
+            var icon
+            if (marker_info.name != MY_LOCALIZATION) {
+                //icon = "http://maps.google.com/mapfiles/kml/shapes/gas_stations.png?raw=true"
+                icon = pinSymbol("green")
+            }
 
             var marker = new google.maps.Marker({
                 position: marker_info.position,
                 map: map,
-                //icon: icon,
+                icon: icon
                 //map_icon_label: '<span class="map-icon map-icon-gas-station"></span>'
             });
 
@@ -161,6 +162,17 @@
                 });
             }
 
+        }
+
+        function pinSymbol(color) {
+          return {
+            path: 'M 0,0 C -2,-20 -10,-22 -10,-30 A 10,10 0 1,1 10,-30 C 10,-22 2,-20 0,0 z',
+            fillColor: color,
+            fillOpacity: 1,
+            strokeColor: '#000',
+            strokeWeight: 2,
+            scale: 1
+          };
         }
 
         function createCircle(position, map) {
@@ -200,10 +212,15 @@
     <div class="modal-content">
       <div class="modal-body">
         <input type="hidden" name="entityId" id="entityId">
-        <p> Preço R$: <input type="text" required name="valorCombustivelModal" id="valorCombustivelModal"/>
+        <p class="text-center"> 
+            Preço R$: <br/>
+            <input type="text" required name="valorCombustivelModal" id="valorCombustivelModal"/>
         </p>
-        <p>
-            Sua avaliação: <i class="fa fa-star-o" id="star1" onmouseover="updateStars(this.id)"></i><i class="fa fa-star-o" id="star2" onmouseover="updateStars(this.id)"></i><i class="fa fa-star-o" id="star3" onmouseover="updateStars(this.id)"></i><i class="fa fa-star-o" id="star4" onmouseover="updateStars(this.id)"></i><i class="fa fa-star-o" id="star5" onmouseover="updateStars(this.id)"></i>
+        <p class="text-center">
+            Sua avaliação: <br/>
+            <span style="font-size: 28px !important;">
+                <i class="fa fa-star-o" id="star1" onmouseover="updateStars(this.id)"></i><i class="fa fa-star-o" id="star2" onmouseover="updateStars(this.id)"></i><i class="fa fa-star-o" id="star3" onmouseover="updateStars(this.id)"></i><i class="fa fa-star-o" id="star4" onmouseover="updateStars(this.id)"></i><i class="fa fa-star-o" id="star5" onmouseover="updateStars(this.id)"></i>
+            </span>
             <input type="hidden" name="stars" id="stars">
         </p>
       </div>
