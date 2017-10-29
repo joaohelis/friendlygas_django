@@ -43,6 +43,7 @@ def near_gas_stations(request):
 
 
 def update_entity_attributes(request):
+	print(request)
 	orion_client = get_orion_client()
 	entity_id = request.GET.get('entity_id', None)
 	attributes = request.GET.get('attributes', None)

@@ -3,6 +3,61 @@
 {% block content %}
 
 <script>
+
+    function abrirModal(id) {
+        $('#entityId').val(id)
+        $.each(data, function(key, value){                        
+            if (key == id) {
+                $('#myModal').find('#valorCombustivelModal').val(value.price)
+                resetStars()
+            }
+        });
+    }
+
+    function updateStars(id) {
+        resetStars()
+
+        for (i = 1; i <= 5; i++) {
+            var star = "star" + i
+            $("#" + star).removeClass("fa-star-o")
+            $("#" + star).addClass("fa-star")
+            if (star == id) {
+                $("#stars").val(i)
+                break
+            }
+        }
+    }
+
+    function resetStars() {
+        for (i = 1; i <= 5; i++) {
+            $("#stars").val(0)
+            var star = "star" + i
+            $("#" + star).removeClass("fa-star")
+            $("#" + star).addClass("fa-star-o")
+        }
+    }
+
+    function sendEvaluation() {
+        console.log("enviando...")
+        $.ajax({
+                url: '{% url "core:update_entity_attributes" %}',
+                data: {
+                  'entity_id': $('#entityId').val(),
+                  'attributes': {
+                        'price' : $("#valorCombustivelModal").val()
+                        //'stars' : $("#stars").val()
+                    }
+                },
+                dataType: 'json',
+                success: function (data) {
+                    console.log(data);
+                },
+                error: function(data){
+                    console.log(data);
+                }
+            }); 
+    }
+        
     $(document).ready(function(){
 
         var MY_LOCALIZATION = "Minha Localização"
@@ -31,6 +86,7 @@
                         var position = value.position.split(",").map(function (x) { return parseFloat(x); });
                         var uluru = {lat: position[0], lng: position[1]};
                         value.position = uluru;
+                        value.id = key
                         createMarker(value, map)
                     });                   
                 },
@@ -58,22 +114,9 @@
         }
         
         function createMarker(marker_info, map) {
-            console.log(marker_info)
+            //console.log(marker_info)
 
             var starsMedia = calculateStarsMedia(marker_info.star_votes)
-            var contentString = `<div id="infoWindow">
-                <p><span class="font-weight-bold">{0}</span></p>
-                <p><span class="font-weight-bold">Preço:</span>R$ {1}</p>
-                <p class="stars-font-size">
-                <i class="fa fa-star customStar"></i>
-                <i class="fa fa-star customStar"></i> 
-                <i class="fa fa-star customStar"></i> 
-                <i class="fa fa-star-half-o customStar"></i> 
-                <i class="fa fa-star-o customStar"></i> 
-                </p> 
-                </div>
-                </div>`;
-
 
             var contentString, infowindow
             if (marker_info.name != MY_LOCALIZATION) {
@@ -91,7 +134,9 @@
                    contentString += '<i class="fa fa-star-o"></i>'
                 }
 
-                contentString += ' (' + starsMedia +') </p> </div> </div>';
+                contentString += ' (' + starsMedia +') </p> </div>'
+
+                contentString += '<p><a href="#" data-toggle="modal" data-target="#myModal" id="' + marker_info.id + '" onclick="abrirModal(this.id)">Abasteci aqui</a></p></div>'
 
                 infowindow = new google.maps.InfoWindow({
                     content: contentString
@@ -100,7 +145,7 @@
 
             var icon
             if (marker_info.name != MY_LOCALIZATION) {
-                icon = "http://maps.google.com/mapfiles/kml/shapes/gas_stations.png"            
+                icon = "http://maps.google.com/mapfiles/kml/shapes/gas_stations.png?raw=true"
             }
 
             var marker = new google.maps.Marker({
@@ -115,8 +160,9 @@
                     infowindow.open(map, marker);
                 });
             }
+
         }
-        
+
         function createCircle(position, map) {
             var cityCircle = new google.maps.Circle({
                 strokeColor: '#FF0000',
@@ -140,13 +186,33 @@
             });
             media = parseFloat(peso / somaVotos).toFixed(2)
             return media
-        }
-               
+        }               
 
         getLocation()
     })
 </script>
 
-<div id="gMapsDiv"></div>
+<div id="gMapsDiv"></div>\
+
+<!-- Modal -->
+<div class="modal" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-body">
+        <input type="hidden" name="entityId" id="entityId">
+        <p> Preço R$: <input type="text" required name="valorCombustivelModal" id="valorCombustivelModal"/>
+        </p>
+        <p>
+            Sua avaliação: <i class="fa fa-star-o" id="star1" onmouseover="updateStars(this.id)"></i><i class="fa fa-star-o" id="star2" onmouseover="updateStars(this.id)"></i><i class="fa fa-star-o" id="star3" onmouseover="updateStars(this.id)"></i><i class="fa fa-star-o" id="star4" onmouseover="updateStars(this.id)"></i><i class="fa fa-star-o" id="star5" onmouseover="updateStars(this.id)"></i>
+            <input type="hidden" name="stars" id="stars">
+        </p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default btn-sm" data-dismiss="modal">Fechar</button>
+        <button type="button" class="btn btn-primary btn-sm" onclick="sendEvaluation()">Enviar</button>
+      </div>
+    </div>
+  </div>
+</div>
 
 {% endblock %}
