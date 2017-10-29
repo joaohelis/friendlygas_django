@@ -51,9 +51,13 @@
                 dataType: 'json',
                 success: function (data) {
                     console.log(data);
+                    getLocation()
+                    $("#myModal").modal('hide')
                 },
                 error: function(data){
                     console.log(data);
+                    getLocation()
+                    $("#myModal").modal('hide')
                 }
             }); 
     }
@@ -88,7 +92,7 @@
                         value.position = uluru;
                         value.id = key
                         createMarker(value, map)
-                    });                   
+                    });
                 },
                 error: function(data){
                     console.log(data);
@@ -204,7 +208,7 @@
     })
 </script>
 
-<div id="gMapsDiv"></div>\
+<div id="gMapsDiv"></div>
 
 <!-- Modal -->
 <div class="modal" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
