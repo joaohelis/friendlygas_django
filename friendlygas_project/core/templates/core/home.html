@@ -143,16 +143,16 @@
                 });
             }
 
-            var icon
-            if (marker_info.name != MY_LOCALIZATION) {
-                icon = "http://maps.google.com/mapfiles/kml/shapes/gas_stations.png?raw=true"
-            }
+            // var icon
+            // if (marker_info.name != MY_LOCALIZATION) {
+            //     icon = "http://maps.google.com/mapfiles/kml/shapes/gas_stations.png?raw=true"
+            // }
 
             var marker = new google.maps.Marker({
                 position: marker_info.position,
                 map: map,
-                icon: icon,
-                map_icon_label: '<span class="map-icon map-icon-gas-station"></span>'
+                //icon: icon,
+                //map_icon_label: '<span class="map-icon map-icon-gas-station"></span>'
             });
 
             if (marker_info.name != MY_LOCALIZATION) {
