@@ -25,7 +25,7 @@ SECRET_KEY = '6xc&3gw!7oj6p)i^-uzsya#ut4t_t%d4@!k+ggll*v1l!td%7n'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["u'friendlygas.herokuapp.com"]
 
 
 # Application definition
