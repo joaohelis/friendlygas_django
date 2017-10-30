@@ -3,6 +3,8 @@ from __future__ import unicode_literals
 from django.http import JsonResponse
 from orionclient import OrionClient
 import json
+import datetime
+import pytz
 
 from django.shortcuts import render
 # Create your views here.
@@ -43,13 +45,19 @@ def near_gas_stations(request):
 
 
 def update_entity_attributes(request):
-	print(request)
 	orion_client = get_orion_client()
 	entity_id = request.GET.get('entity_id', None)
-	attributes = request.GET.get('attributes', None)
-	attributes = json.loads(attributes)
+	price = request.GET.get('price', None)
+	star_votes1 = request.GET.get('star_votes[1]', None)
+	star_votes2 = request.GET.get('star_votes[2]', None)
+	star_votes3 = request.GET.get('star_votes[3]', None)
+	star_votes4 = request.GET.get('star_votes[4]', None)
+	star_votes5 = request.GET.get('star_votes[5]', None)
+	dateUpdated = str(datetime.datetime.now(pytz.timezone('America/Recife')))
+	attributes = '{ "last_update" : "' + dateUpdated + '", "price" : ' + price + ', "star_votes" : {"1":' + star_votes1 + ', "2":' + star_votes2 +', "3":' + star_votes3 + ', "4": ' + star_votes4  + ', "5": ' + star_votes5 + '}}'
+	attrs = json.loads(attributes)
 	try:
-		orion_client.update_attributes(entity_id, attributes)
+		orion_client.update_attributes(entity_id, attrs)
 		response['code'] = 'OK'
 	except:
 		response['code'] = 'ERROR'
