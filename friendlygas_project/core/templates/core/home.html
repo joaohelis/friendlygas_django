@@ -189,7 +189,7 @@
                 votesDict[3] = value.star_votes[3]
                 votesDict[4] = value.star_votes[4]
                 votesDict[5] = value.star_votes[5]
-                votesDict[$("#stars").val()] = value.star_votes[$("#stars").val()] + 1
+                votesDict[$("#stars").val()] = parseInt(value.star_votes[$("#stars").val()]) + 1
             }
         })
 
