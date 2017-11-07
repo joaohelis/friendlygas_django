@@ -6,6 +6,28 @@
 
     var MY_LOCALIZATION = "Minha Localização"
 
+    function determineCheapestAndMoreExpensiveGasStations(data) {
+        lowPrice = parseFloat(Object.values(window.data)[0].price)
+        expensivePrice = parseFloat(Object.values(window.data)[0].price)
+        $.each(data, function(key, value){
+            if (parseFloat(value.price) < lowPrice) {
+                lowPrice = parseFloat(value.price)
+            }
+            if (parseFloat(value.price) > expensivePrice) {
+                expensivePrice = parseFloat(value.price)
+            }
+        });
+
+        $.each(data, function(key, value){
+            if (parseFloat(value.price) == lowPrice) {
+                value.pinColor = "green"
+            } else if (parseFloat(value.price) == expensivePrice) {
+                value.pinColor = "red"
+            } else {
+                value.pinColor = "blue"
+            }
+        });
+    }
     function getLocation() {
         if (navigator.geolocation) {
             navigator.geolocation.getCurrentPosition(showPosition)
@@ -25,6 +47,8 @@
             dataType: 'json',
             success: function (data) {
                 window.data = data
+
+                determineCheapestAndMoreExpensiveGasStations(data)
 
                 $.each(data, function(key, value){                        
                     var position = value.position.split(",").map(function (x) { return parseFloat(x); });
@@ -90,7 +114,7 @@
         var icon
         if (marker_info.name != MY_LOCALIZATION) {
             //icon = "http://maps.google.com/mapfiles/kml/shapes/gas_stations.png?raw=true"
-            icon = pinSymbol("green")
+            icon = pinSymbol(marker_info)
         }
 
         var marker = new google.maps.Marker({
@@ -108,10 +132,10 @@
 
     }
 
-    function pinSymbol(color) {
+    function pinSymbol(marker_info) {
       return {
         path: 'M 0,0 C -2,-20 -10,-22 -10,-30 A 10,10 0 1,1 10,-30 C 10,-22 2,-20 0,0 z',
-        fillColor: color,
+        fillColor: marker_info.pinColor,
         fillOpacity: 1,
         strokeColor: '#000',
         strokeWeight: 2,
