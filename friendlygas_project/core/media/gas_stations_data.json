@@ -1,0 +1,4898 @@
+{
+    "GasStation-0105f11e": {
+        "formatted_address": "Av. Interventor Mario C\u007fmara, 2457 - Cidade da Esperan\u007fa, Natal - RN, 59054-600, Brazil",
+        "last_update": "2017-11-14T10:30:04.990607",
+        "name": "Stop Jato Car",
+        "neighborhood": "Salinas",
+        "position": "-5.8261095,-35.231728",
+        "price": "3.89",
+        "star_votes": {
+            "1": "51",
+            "2": "43",
+            "3": "28",
+            "4": "26",
+            "5": "32"
+        },
+        "zone": "norte"
+    },
+    "GasStation-01076b4e": {
+        "formatted_address": "R. Maranata, 425 - Guarapes, Natal - RN, 59073-143, Brazil",
+        "last_update": "2017-11-14T10:29:50.364675",
+        "name": "Posto Pitimb\u007f",
+        "neighborhood": "Nordeste",
+        "position": "-5.8582661,-35.252328",
+        "price": "3.89",
+        "star_votes": {
+            "1": "1",
+            "2": "32",
+            "3": "100",
+            "4": "11",
+            "5": "63"
+        },
+        "zone": "norte"
+    },
+    "GasStation-017443e5": {
+        "formatted_address": "Av. Prudente de Morais, 1703 - Barro Vermelho, Natal - RN, 59020-400, Brazil",
+        "last_update": "2017-11-14T10:30:24.298275",
+        "name": "Posto Cirne",
+        "neighborhood": "Nova Descoberta",
+        "position": "-5.7977722,-35.2047483",
+        "price": "3.89",
+        "star_votes": {
+            "1": "16",
+            "2": "82",
+            "3": "17",
+            "4": "68",
+            "5": "92"
+        },
+        "zone": "sul"
+    },
+    "GasStation-01e99122": {
+        "formatted_address": "Av. Prudente de Morais, 1854 - Lagoa Nova, Natal - RN, 59063-200, Brazil",
+        "last_update": "2017-11-14T10:30:12.430713",
+        "name": "JVC Comercial Ltda.",
+        "neighborhood": "Capim Macio",
+        "position": "-5.8314173,-35.2174512",
+        "price": "3.89",
+        "star_votes": {
+            "1": "53",
+            "2": "82",
+            "3": "34",
+            "4": "99",
+            "5": "28"
+        },
+        "zone": "sul"
+    },
+    "GasStation-02d912d6": {
+        "formatted_address": "Av. Cidade Praia, 49 - Lagoa Azul, Natal - RN, 59129-470, Brazil",
+        "last_update": "2017-11-14T10:29:41.304089",
+        "name": "M. S. Silva - Comercio De Combustiveis",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7464602,-35.2610159",
+        "price": "3.89",
+        "star_votes": {
+            "1": "13",
+            "2": "85",
+            "3": "86",
+            "4": "62",
+            "5": "88"
+        },
+        "zone": "norte"
+    },
+    "GasStation-044f217f": {
+        "formatted_address": "Av. Governador Tarc\u007fsio de Vasconcelos Maia, 1450 - Candel\u007fria, Natal - RN, 59065-780, Brazil",
+        "last_update": "2017-11-14T10:30:06.551217",
+        "name": "POSTO AMIGO- INTEGRA\u007f\u007fO",
+        "neighborhood": "Candel\u007fria",
+        "position": "-5.8422201,-35.2208072",
+        "price": "3.89",
+        "star_votes": {
+            "1": "69",
+            "2": "11",
+            "3": "55",
+            "4": "87",
+            "5": "40"
+        },
+        "zone": "sul"
+    },
+    "GasStation-062479d3": {
+        "formatted_address": "R. Humberto Monte, 1801-1829 - Capim Macio, Natal - RN, 59082-190, Brazil",
+        "last_update": "2017-11-14T10:30:09.946373",
+        "name": "BR",
+        "neighborhood": "Capim Macio",
+        "position": "-5.8628854,-35.1901211",
+        "price": "3.89",
+        "star_votes": {
+            "1": "93",
+            "2": "53",
+            "3": "11",
+            "4": "47",
+            "5": "72"
+        },
+        "zone": "sul"
+    },
+    "GasStation-06c43f12": {
+        "formatted_address": "Av. Engenheiro Roberto Freire, 1166 - Capim Macio,Natal - RN, 59082-055 - Capim Macio, Natal - RN, 59082-055, Brazil",
+        "last_update": "2017-11-14T10:30:09.496837",
+        "name": "Posto HSI",
+        "neighborhood": "Capim Macio",
+        "position": "-5.8553861,-35.1996336",
+        "price": "3.89",
+        "star_votes": {
+            "1": "56",
+            "2": "99",
+            "3": "57",
+            "4": "28",
+            "5": "41"
+        },
+        "zone": "sul"
+    },
+    "GasStation-0846499d": {
+        "formatted_address": "Av. Maria Lacerda Montenegro, 1732 - Nova Parnamirim, Parnamirim - RN, 59150-000, Brazil",
+        "last_update": "2017-11-14T10:30:26.565881",
+        "name": "Potiguar Com\u007frcio de Caminhoes",
+        "neighborhood": "Pitimbu",
+        "position": "-5.8890236,-35.2082013",
+        "price": "3.89",
+        "star_votes": {
+            "1": "89",
+            "2": "65",
+            "3": "32",
+            "4": "8",
+            "5": "50"
+        },
+        "zone": "sul"
+    },
+    "GasStation-090fa2c5": {
+        "formatted_address": "R. Pres. M\u007fdici, 205 - Igap\u007f, Natal - RN, 59290-000, Brazil",
+        "last_update": "2017-11-14T10:29:35.404120",
+        "name": "Posto Ale",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7687287,-35.2672615",
+        "price": "3.89",
+        "star_votes": {
+            "1": "76",
+            "2": "54",
+            "3": "98",
+            "4": "23",
+            "5": "32"
+        },
+        "zone": "norte"
+    },
+    "GasStation-0a1441e2": {
+        "formatted_address": "Av. Governador Tarc\u007fsio de Vasconcelos Maia, 2160 - Candel\u007fria, Natal - RN, 59065-780, Brazil",
+        "last_update": "2017-11-14T10:30:08.370187",
+        "name": "POSTO COOPTAX - INTEGRA\u007f\u007fO",
+        "neighborhood": "Candel\u007fria",
+        "position": "-5.84878,-35.2117428",
+        "price": "3.89",
+        "star_votes": {
+            "1": "47",
+            "2": "27",
+            "3": "63",
+            "4": "49",
+            "5": "99"
+        },
+        "zone": "sul"
+    },
+    "GasStation-0a2d9c72": {
+        "formatted_address": "Av. Bacharel Tomaz Landim, 2520 - Igap\u007f, Natal - RN, 59104-212, Brazil",
+        "last_update": "2017-11-14T10:29:34.492934",
+        "name": "COMERCIAL DE COMB CORIOLANO EIRELI",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7683522,-35.2732491",
+        "price": "3.89",
+        "star_votes": {
+            "1": "80",
+            "2": "93",
+            "3": "10",
+            "4": "67",
+            "5": "63"
+        },
+        "zone": "norte"
+    },
+    "GasStation-0a5ab27d": {
+        "formatted_address": "Av. Sen. Salgado Filho, 2580 - Candel\u007fria, RN, 59063-000, Brazil",
+        "last_update": "2017-11-14T10:30:07.916597",
+        "name": "Posto Alvaro 105",
+        "neighborhood": "Candel\u007fria",
+        "position": "-5.8314577,-35.2123813",
+        "price": "3.89",
+        "star_votes": {
+            "1": "73",
+            "2": "28",
+            "3": "32",
+            "4": "9",
+            "5": "92"
+        },
+        "zone": "sul"
+    },
+    "GasStation-0a89c4fe": {
+        "formatted_address": "Av. Sen. Salgado Filho, 3712 - Ne\u007fpolis, Natal - RN, 59066-180, Brazil",
+        "last_update": "2017-11-14T10:30:20.952080",
+        "name": "Transportes e Com\u007frcio Novo Horizonte",
+        "neighborhood": "Ne\u007fpolis",
+        "position": "-5.8661351,-35.2170732",
+        "price": "3.89",
+        "star_votes": {
+            "1": "65",
+            "2": "12",
+            "3": "40",
+            "4": "73",
+            "5": "82"
+        },
+        "zone": "sul"
+    },
+    "GasStation-0b8d0d4d": {
+        "formatted_address": "Av. Prudente de Morais, 2056 - Barro Vermelho, Natal - RN, 59022-400, Brazil",
+        "last_update": "2017-11-14T10:30:32.589158",
+        "name": "FLOR & CIA LTDA",
+        "neighborhood": "Areia Preta",
+        "position": "-5.792145,-35.2030543",
+        "price": "3.89",
+        "star_votes": {
+            "1": "28",
+            "2": "36",
+            "3": "49",
+            "4": "15",
+            "5": "84"
+        },
+        "zone": "leste"
+    },
+    "GasStation-0b948f4b": {
+        "formatted_address": "R. Jaguarari, 1974 - Lagoa Nova, Natal - RN, 59054-150, Brazil",
+        "last_update": "2017-11-14T10:30:15.373234",
+        "name": "POSTO JAGUARARI LTDA",
+        "neighborhood": "Lagoa Nova",
+        "position": "-5.8159895,-35.2176374",
+        "price": "3.89",
+        "star_votes": {
+            "1": "68",
+            "2": "95",
+            "3": "19",
+            "4": "100",
+            "5": "42"
+        },
+        "zone": "sul"
+    },
+    "GasStation-0d35547b": {
+        "formatted_address": "Rua Mermoz, 280 - Tirol, Natal - RN, 59025-250, Brazil",
+        "last_update": "2017-11-14T10:30:33.951074",
+        "name": "POSTO COOPTAX MERMOZ",
+        "neighborhood": "Cidade Alta",
+        "position": "-5.7919587,-35.2078387",
+        "price": "3.89",
+        "star_votes": {
+            "1": "13",
+            "2": "7",
+            "3": "32",
+            "4": "65",
+            "5": "4"
+        },
+        "zone": "leste"
+    },
+    "GasStation-0fdf438c": {
+        "formatted_address": "Av. Bacharel Tomaz Landim, 3540 - Igap\u007f, Natal - RN, 59104-000, Brazil",
+        "last_update": "2017-11-15T11:43:05.537276",
+        "name": "Posto Para\u007fso",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7688021,-35.2717322",
+        "price": "3.89",
+        "star_votes": {
+            "1": "51",
+            "2": "83",
+            "3": "38",
+            "4": "26",
+            "5": "60"
+        },
+        "zone": "norte"
+    },
+    "GasStation-10277125": {
+        "formatted_address": "Av. Votuporanga, 403 - Potengi, Natal - RN, 59129-430, Brazil",
+        "last_update": "2017-11-14T10:30:01.383676",
+        "name": "Mendes e Filho Com\u007frcio de Combustiveis",
+        "neighborhood": "Potengi",
+        "position": "-5.737974,-35.2540214",
+        "price": "3.89",
+        "star_votes": {
+            "1": "67",
+            "2": "97",
+            "3": "76",
+            "4": "11",
+            "5": "82"
+        },
+        "zone": "norte"
+    },
+    "GasStation-109ba4db": {
+        "formatted_address": "Av. Ayrton Senna, 1964 - Nova Parnamirim, Natal - RN, 59151-600, Brazil",
+        "last_update": "2017-11-14T10:29:51.262238",
+        "name": "Green City Desk",
+        "neighborhood": "Nordeste",
+        "position": "-5.8904492,-35.1989181",
+        "price": "3.89",
+        "star_votes": {
+            "1": "82",
+            "2": "23",
+            "3": "90",
+            "4": "14",
+            "5": "33"
+        },
+        "zone": "norte"
+    },
+    "GasStation-1172bcac": {
+        "formatted_address": "Av. Ayrton Senna, 2949 - Ne\u007fpolis, RN, 59088-100, Brazil",
+        "last_update": "2017-11-14T10:30:21.409656",
+        "name": "RS Postos",
+        "neighborhood": "Ne\u007fpolis",
+        "position": "-5.8778583,-35.201577",
+        "price": "3.89",
+        "star_votes": {
+            "1": "32",
+            "2": "57",
+            "3": "38",
+            "4": "20",
+            "5": "86"
+        },
+        "zone": "sul"
+    },
+    "GasStation-11d3e042": {
+        "formatted_address": "R. Gen. Gustavo Cordeiro de Farias, 251 - Ribeira, Natal - RN, Brazil",
+        "last_update": "2017-11-14T10:29:46.979793",
+        "name": "Parada do Bairro Nordeste",
+        "neighborhood": "Nordeste",
+        "position": "-5.779252,-35.2009516",
+        "price": "3.89",
+        "star_votes": {
+            "1": "5",
+            "2": "62",
+            "3": "94",
+            "4": "93",
+            "5": "87"
+        },
+        "zone": "norte"
+    },
+    "GasStation-11e49906": {
+        "formatted_address": "Rua Maestro Valdemar de Almeida, 122-230 - Alecrim, Natal - RN, 59032-410, Brazil",
+        "last_update": "2017-11-14T10:30:33.722107",
+        "name": "Shell",
+        "neighborhood": "Barro Vermelho",
+        "position": "-5.8081278,-35.2172325",
+        "price": "3.89",
+        "star_votes": {
+            "1": "60",
+            "2": "35",
+            "3": "53",
+            "4": "41",
+            "5": "29"
+        },
+        "zone": "leste"
+    },
+    "GasStation-121635a1": {
+        "formatted_address": "Av. Mal. Floriano Peixoto, 467 - Petr\u007fpolis, Natal - RN, 59020-500, Brazil",
+        "last_update": "2017-11-14T10:30:35.092353",
+        "name": "Distribuidora de Combustiveis Litoral Norte",
+        "neighborhood": "Petr\u007fpolis",
+        "position": "-5.7846498,-35.2018008",
+        "price": "3.89",
+        "star_votes": {
+            "1": "21",
+            "2": "52",
+            "3": "83",
+            "4": "47",
+            "5": "64"
+        },
+        "zone": "leste"
+    },
+    "GasStation-122f32c4": {
+        "formatted_address": "Av. Maria Lacerda Montenegro, 112 - Nova Parnamirim, Parnamirim - RN, 59089-000, Brazil",
+        "last_update": "2017-11-14T10:30:25.663578",
+        "name": "Euzilene M M Santos",
+        "neighborhood": "Pitimbu",
+        "position": "-5.8776915,-35.2172897",
+        "price": "3.89",
+        "star_votes": {
+            "1": "32",
+            "2": "54",
+            "3": "39",
+            "4": "65",
+            "5": "91"
+        },
+        "zone": "sul"
+    },
+    "GasStation-14163eed": {
+        "formatted_address": "Av. Prudente de Morais, 5828-5830, Rio Grande do Norte, Brazil",
+        "last_update": "2017-11-14T10:30:05.654509",
+        "name": "Shell",
+        "neighborhood": "Candel\u007fria",
+        "position": "-5.8319498,-35.2177277",
+        "price": "3.89",
+        "star_votes": {
+            "1": "25",
+            "2": "87",
+            "3": "91",
+            "4": "64",
+            "5": "21"
+        },
+        "zone": "sul"
+    },
+    "GasStation-14acd3f0": {
+        "formatted_address": "Av. Sen. Salgado Filho, 1552 - Tirol, Natal - RN, 59022-000, Brazil",
+        "last_update": "2017-11-14T10:30:37.999796",
+        "name": "Posto Luna",
+        "neighborhood": "Tirol",
+        "position": "-5.8661351,-35.2170732",
+        "price": "3.89",
+        "star_votes": {
+            "1": "68",
+            "2": "24",
+            "3": "42",
+            "4": "27",
+            "5": "44"
+        },
+        "zone": "leste"
+    },
+    "GasStation-16121032": {
+        "formatted_address": "R. Jaguarari, 4227 - Candel\u007fria, Natal - RN, 59064-500, Brazil",
+        "last_update": "2017-11-14T10:30:06.109740",
+        "name": "Ale",
+        "neighborhood": "Candel\u007fria",
+        "position": "-5.8317184,-35.222788",
+        "price": "3.89",
+        "star_votes": {
+            "1": "73",
+            "2": "37",
+            "3": "30",
+            "4": "11",
+            "5": "61"
+        },
+        "zone": "sul"
+    },
+    "GasStation-16393929": {
+        "formatted_address": "Av. Alm. Alexandrino de Alencar, 593, Rio Grande do Norte, Brazil",
+        "last_update": "2017-11-14T10:30:33.501233",
+        "name": "Petrobras",
+        "neighborhood": "Barro Vermelho",
+        "position": "-5.7980007,-35.2129652",
+        "price": "3.89",
+        "star_votes": {
+            "1": "63",
+            "2": "11",
+            "3": "58",
+            "4": "5",
+            "5": "76"
+        },
+        "zone": "leste"
+    },
+    "GasStation-17f20d64": {
+        "formatted_address": "Av. Dr. Napole\u007fo Laureano, 4330 - Felipe Camar\u007fo, Natal - RN, 59050-480, Brazil",
+        "last_update": "2017-11-14T10:29:45.378683",
+        "name": "Posto Frei Dami\u007fo Posto Petrobras",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.8205676,-35.2522312",
+        "price": "3.89",
+        "star_votes": {
+            "1": "39",
+            "2": "94",
+            "3": "23",
+            "4": "29",
+            "5": "15"
+        },
+        "zone": "norte"
+    },
+    "GasStation-1843ef38": {
+        "formatted_address": "Av. das Fronteiras, S/N - Nossa Sra. da Apresenta\u007f\u007fo, Natal - RN, 59114-035, Brazil",
+        "last_update": "2017-11-14T10:29:54.158359",
+        "name": "Posto Vale Dourado",
+        "neighborhood": "Nossa Senhora da Apresenta\u007f\u007fo",
+        "position": "-5.7594885,-35.2647112",
+        "price": "3.89",
+        "star_votes": {
+            "1": "100",
+            "2": "86",
+            "3": "81",
+            "4": "57",
+            "5": "96"
+        },
+        "zone": "norte"
+    },
+    "GasStation-190f8c90": {
+        "formatted_address": "Av. Bernardo Vieira, 627 - Quintas, Natal - RN, 59040-480, Brazil",
+        "last_update": "2017-11-14T10:30:38.668408",
+        "name": "Petrobras",
+        "neighborhood": "Bom Pastor",
+        "position": "-5.8022466,-35.2331546",
+        "price": "3.89",
+        "star_votes": {
+            "1": "51",
+            "2": "86",
+            "3": "76",
+            "4": "32",
+            "5": "31"
+        },
+        "zone": "oeste"
+    },
+    "GasStation-1c3ed38d": {
+        "formatted_address": "Av. Pres. Bandeira, 1270 - Lagoa Seca, Natal - RN, 59032-200, Brazil",
+        "last_update": "2017-11-14T10:29:44.024829",
+        "name": "Posto Brasil",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.8091295,-35.2119061",
+        "price": "3.89",
+        "star_votes": {
+            "1": "37",
+            "2": "52",
+            "3": "2",
+            "4": "7",
+            "5": "86"
+        },
+        "zone": "norte"
+    },
+    "GasStation-1c77bc9c": {
+        "formatted_address": "Av. Prefeito Milton Dantas de Medeiros, 42 - Parque das Na\u007f\u007fes, Parnamirim - RN, 59158-190, Brazil",
+        "last_update": "2017-11-14T10:30:29.237807",
+        "name": "Lava Jato",
+        "neighborhood": "Ponta Negra",
+        "position": "-5.922046,-35.2096062",
+        "price": "3.89",
+        "star_votes": {
+            "1": "93",
+            "2": "67",
+            "3": "50",
+            "4": "32",
+            "5": "83"
+        },
+        "zone": "sul"
+    },
+    "GasStation-1cde8ac6": {
+        "formatted_address": "Av. Engenheiro Roberto Freire, 2250 - Capim Macio, Natal - RN, Brazil",
+        "last_update": "2017-11-14T10:29:49.004449",
+        "name": "Posto Jacutinga",
+        "neighborhood": "Nordeste",
+        "position": "-5.8627543,-35.1904801",
+        "price": "3.89",
+        "star_votes": {
+            "1": "8",
+            "2": "10",
+            "3": "23",
+            "4": "87",
+            "5": "53"
+        },
+        "zone": "norte"
+    },
+    "GasStation-1ce449ef": {
+        "formatted_address": "Av. Dr. Jo\u007fo Medeiros Filho, 900 - Potengi, Natal - RN, 59108-550, Brazil",
+        "last_update": "2017-11-14T10:29:35.172164",
+        "name": "Posto Cana\u007f",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7678203,-35.2545789",
+        "price": "3.89",
+        "star_votes": {
+            "1": "11",
+            "2": "37",
+            "3": "93",
+            "4": "28",
+            "5": "99"
+        },
+        "zone": "norte"
+    },
+    "GasStation-1d5e2f8a": {
+        "formatted_address": "Rod Br 101 10 Km 76, S\u007fo Gon\u007falo do Amarante - RN, 59290-000, Brazil",
+        "last_update": "2017-11-14T10:30:39.118011",
+        "name": "Revendedora De Combustiveis Sao Jose",
+        "neighborhood": "Bom Pastor",
+        "position": "-5.797996,-35.237605",
+        "price": "3.89",
+        "star_votes": {
+            "1": "73",
+            "2": "36",
+            "3": "19",
+            "4": "79",
+            "5": "20"
+        },
+        "zone": "oeste"
+    },
+    "GasStation-1dc206ba": {
+        "formatted_address": "Av. Bernardo Vieira, 1050 - Quintas, Natal - RN, 59051-001, Brazil",
+        "last_update": "2017-11-14T10:30:02.509083",
+        "name": "Posto Rita 1",
+        "neighborhood": "Quintas",
+        "position": "-5.8040373,-35.2298267",
+        "price": "3.89",
+        "star_votes": {
+            "1": "10",
+            "2": "99",
+            "3": "80",
+            "4": "73",
+            "5": "49"
+        },
+        "zone": "norte"
+    },
+    "GasStation-1e2241fa": {
+        "formatted_address": "Av. Maria Lacerda Montenegro - Nova Parnamirim, Parnamirim - RN, 59152-500, Brazil",
+        "last_update": "2017-11-14T10:30:25.894124",
+        "name": "From September 30",
+        "neighborhood": "Pitimbu",
+        "position": "-5.8909019,-35.2070878",
+        "price": "3.89",
+        "star_votes": {
+            "1": "32",
+            "2": "78",
+            "3": "20",
+            "4": "85",
+            "5": "99"
+        },
+        "zone": "sul"
+    },
+    "GasStation-1e593a05": {
+        "formatted_address": "Av. Dr. Jo\u007fo Medeiros Filho, 3200 - Igap\u007f, Natal - RN, 59104-200, Brazil",
+        "last_update": "2017-11-14T10:29:42.207306",
+        "name": "Petrobras",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.767816,-35.2545553",
+        "price": "3.89",
+        "star_votes": {
+            "1": "23",
+            "2": "31",
+            "3": "76",
+            "4": "83",
+            "5": "69"
+        },
+        "zone": "norte"
+    },
+    "GasStation-1ec52a41": {
+        "formatted_address": "Av. Prudente de Morais, 5050 - Lagoa Nova, Natal - RN, 59065-500, Brazil",
+        "last_update": "2017-11-14T10:30:16.502290",
+        "name": "Cdp Comercial Derivados de Petroleo",
+        "neighborhood": "Lagoa Nova",
+        "position": "-5.8254918,-35.2160919",
+        "price": "3.89",
+        "star_votes": {
+            "1": "99",
+            "2": "3",
+            "3": "96",
+            "4": "94",
+            "5": "57"
+        },
+        "zone": "sul"
+    },
+    "GasStation-1eeba802": {
+        "formatted_address": "Av. Dr. Jo\u007fo Medeiros Filho, 7500 - Redinha, Natal - RN, 59122-200, Brazil",
+        "last_update": "2017-11-14T10:29:58.218078",
+        "name": "Ferrari Com\u007frcio de Combustiveis e Lubrificantes",
+        "neighborhood": "Nossa Senhora da Apresenta\u007f\u007fo",
+        "position": "-5.7458329,-35.2114553",
+        "price": "3.89",
+        "star_votes": {
+            "1": "100",
+            "2": "63",
+            "3": "57",
+            "4": "99",
+            "5": "86"
+        },
+        "zone": "norte"
+    },
+    "GasStation-2128f9cb": {
+        "formatted_address": "Av. Dr. Jo\u007fo Medeiros Filho, 501 - Igap\u007f, Natal - RN, 59104-200, Brazil",
+        "last_update": "2017-11-14T10:29:35.624563",
+        "name": "Posto ALE",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7712735,-35.2549529",
+        "price": "3.89",
+        "star_votes": {
+            "1": "65",
+            "2": "12",
+            "3": "93",
+            "4": "71",
+            "5": "42"
+        },
+        "zone": "norte"
+    },
+    "GasStation-212b80c3": {
+        "formatted_address": "R. Frejo, 362-422 - Nova Parnamirim, RN, Brazil",
+        "last_update": "2017-11-14T10:30:14.243560",
+        "name": "ALE",
+        "neighborhood": "Capim Macio",
+        "position": "-5.8804124,-35.2153513",
+        "price": "3.89",
+        "star_votes": {
+            "1": "91",
+            "2": "80",
+            "3": "66",
+            "4": "31",
+            "5": "43"
+        },
+        "zone": "sul"
+    },
+    "GasStation-218b0fb2": {
+        "formatted_address": "Av. Felizardo Firmino Moura, 250 - Nordeste, Natal - RN, 59042-120, Brazil",
+        "last_update": "2017-11-14T10:29:46.523210",
+        "name": "Posto Ipiranga",
+        "neighborhood": "Nordeste",
+        "position": "-5.7984925,-35.2377474",
+        "price": "3.89",
+        "star_votes": {
+            "1": "25",
+            "2": "85",
+            "3": "45",
+            "4": "35",
+            "5": "71"
+        },
+        "zone": "norte"
+    },
+    "GasStation-21959d97": {
+        "formatted_address": "Av. Dr. Jo\u007fo Medeiros Filho, 4801 - Igap\u007f, Natal - RN, 59122-518, Brazil",
+        "last_update": "2017-11-14T10:29:36.991510",
+        "name": "Ale",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7489502,-35.2302428",
+        "price": "3.89",
+        "star_votes": {
+            "1": "69",
+            "2": "56",
+            "3": "28",
+            "4": "14",
+            "5": "34"
+        },
+        "zone": "norte"
+    },
+    "GasStation-21d40238": {
+        "formatted_address": "Av. Engenheiro Roberto Freire, 2971 - Capim Macio, Natal - RN, 59082-400, Brazil",
+        "last_update": "2017-11-14T10:30:10.395373",
+        "name": "Petrobras",
+        "neighborhood": "Capim Macio",
+        "position": "-5.852134,-35.202919",
+        "price": "3.89",
+        "star_votes": {
+            "1": "88",
+            "2": "71",
+            "3": "91",
+            "4": "68",
+            "5": "14"
+        },
+        "zone": "sul"
+    },
+    "GasStation-22b762e7": {
+        "formatted_address": "Av. Dr. Jo\u007fo Medeiros Filho, 390 - Igap\u007f, Natal - RN, 59122-610, Brazil",
+        "last_update": "2017-11-14T10:29:34.717761",
+        "name": "Borracharia",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7725995,-35.2546324",
+        "price": "3.89",
+        "star_votes": {
+            "1": "64",
+            "2": "73",
+            "3": "92",
+            "4": "71",
+            "5": "4"
+        },
+        "zone": "norte"
+    },
+    "GasStation-24214b08": {
+        "formatted_address": "Av. Prudente de Morais, 4476 - Lagoa Nova, Natal - RN, 59063-200, Brazil",
+        "last_update": "2017-11-14T10:29:50.593213",
+        "name": "Posto S\u007fo Luiz II",
+        "neighborhood": "Nordeste",
+        "position": "-5.821401,-35.213697",
+        "price": "3.89",
+        "star_votes": {
+            "1": "86",
+            "2": "44",
+            "3": "10",
+            "4": "14",
+            "5": "76"
+        },
+        "zone": "norte"
+    },
+    "GasStation-24bd0951": {
+        "formatted_address": "Av. D\u007fo Silveira, 4416 - Candel\u007fria, Natal - RN, 59066-180, Brazil",
+        "last_update": "2017-11-14T10:29:52.600312",
+        "name": "Posto Ne\u007fpolis",
+        "neighborhood": "Nordeste",
+        "position": "-5.8577896,-35.2124316",
+        "price": "3.89",
+        "star_votes": {
+            "1": "66",
+            "2": "33",
+            "3": "77",
+            "4": "42",
+            "5": "26"
+        },
+        "zone": "norte"
+    },
+    "GasStation-258bde95": {
+        "formatted_address": "Av. Engenheiro Roberto Freire, 1608 - Capim Macio, Natal - RN, 59080-400, Brazil",
+        "last_update": "2017-11-14T10:30:09.718372",
+        "name": "POSTO OLINDA LTDA",
+        "neighborhood": "Capim Macio",
+        "position": "-5.8504004,-35.2058489",
+        "price": "3.89",
+        "star_votes": {
+            "1": "87",
+            "2": "91",
+            "3": "80",
+            "4": "24",
+            "5": "10"
+        },
+        "zone": "sul"
+    },
+    "GasStation-25e1b833": {
+        "formatted_address": "Av. Sen. Salgado Filho, 2840 - Candel\u007fria, RN, Brazil",
+        "last_update": "2017-11-14T10:30:40.226734",
+        "name": "Petrobras",
+        "neighborhood": "Cidade Nova",
+        "position": "-5.8314615,-35.2123906",
+        "price": "3.89",
+        "star_votes": {
+            "1": "92",
+            "2": "57",
+            "3": "97",
+            "4": "70",
+            "5": "37"
+        },
+        "zone": "oeste"
+    },
+    "GasStation-25f56a99": {
+        "formatted_address": "Av. Sen. Salgado Filho, 411 - Mirassol, Natal - RN, 59078-000, Brazil",
+        "last_update": "2017-11-14T10:29:47.871805",
+        "name": "Parelhas Gas",
+        "neighborhood": "Nordeste",
+        "position": "-5.866135,-35.217073",
+        "price": "3.89",
+        "star_votes": {
+            "1": "27",
+            "2": "19",
+            "3": "13",
+            "4": "86",
+            "5": "53"
+        },
+        "zone": "norte"
+    },
+    "GasStation-266e5725": {
+        "formatted_address": "Av Deputado Gastao Mariz 2150, Parnamirim - RN, 59152-110, Brazil",
+        "last_update": "2017-11-14T10:30:14.474741",
+        "name": "H S Com De Derivados De Petroleo Ltda",
+        "neighborhood": "Capim Macio",
+        "position": "-5.896076,-35.197462",
+        "price": "3.89",
+        "star_votes": {
+            "1": "100",
+            "2": "18",
+            "3": "36",
+            "4": "73",
+            "5": "70"
+        },
+        "zone": "sul"
+    },
+    "GasStation-279e7f75": {
+        "formatted_address": "Rua Solange Nunes Nascimento, 20 - Cidade Nova, Natal - RN, 59072-500, Brazil",
+        "last_update": "2017-11-14T10:30:20.286633",
+        "name": "Posto Amig\u007fo",
+        "neighborhood": "Lagoa Nova",
+        "position": "-5.8309149,-35.239786",
+        "price": "3.89",
+        "star_votes": {
+            "1": "29",
+            "2": "10",
+            "3": "22",
+            "4": "65",
+            "5": "95"
+        },
+        "zone": "sul"
+    },
+    "GasStation-27ecb5fb": {
+        "formatted_address": "Avenida Coronel Estevam, 2048 - Dix-Sept Rosado, Natal - RN, 59052-200, Brazil",
+        "last_update": "2017-11-14T10:30:42.043434",
+        "name": "Petrobras",
+        "neighborhood": "Felipe Camar\u007fo",
+        "position": "-5.8083605,-35.2293901",
+        "price": "3.89",
+        "star_votes": {
+            "1": "30",
+            "2": "91",
+            "3": "62",
+            "4": "73",
+            "5": "51"
+        },
+        "zone": "oeste"
+    },
+    "GasStation-2ae336be": {
+        "formatted_address": "Av. Ayrton Senna, 1078 - Ne\u007fpolis, RN, 59088-100, Brazil",
+        "last_update": "2017-11-14T10:30:20.734461",
+        "name": "Posto Pinheiro",
+        "neighborhood": "Ne\u007fpolis",
+        "position": "-5.8649822,-35.2048241",
+        "price": "3.89",
+        "star_votes": {
+            "1": "2",
+            "2": "4",
+            "3": "65",
+            "4": "20",
+            "5": "29"
+        },
+        "zone": "sul"
+    },
+    "GasStation-2bbb00da": {
+        "formatted_address": "R. Henrique Castriciano, 300 - Ribeira, Natal - RN, 59012-430, Brazil",
+        "last_update": "2017-11-14T10:30:00.485115",
+        "name": "Cais Auto Posto",
+        "neighborhood": "Paju\u007fara",
+        "position": "-5.7805996,-35.2042328",
+        "price": "3.89",
+        "star_votes": {
+            "1": "24",
+            "2": "24",
+            "3": "62",
+            "4": "20",
+            "5": "60"
+        },
+        "zone": "norte"
+    },
+    "GasStation-2c624de4": {
+        "formatted_address": "Av. Bernardo Vieira, 1563 - Alecrim, Natal - RN, 59041-006, Brazil",
+        "last_update": "2017-11-14T10:30:30.575123",
+        "name": "Santa Maria Revenda de Combustiveis",
+        "neighborhood": "Alecrim",
+        "position": "-5.8051066,-35.2253801",
+        "price": "3.89",
+        "star_votes": {
+            "1": "8",
+            "2": "6",
+            "3": "40",
+            "4": "71",
+            "5": "79"
+        },
+        "zone": "leste"
+    },
+    "GasStation-2c634019": {
+        "formatted_address": "Av. Sen. Salgado Filho, 2210 - Lagoa Nova, Natal - RN, 59075-000, Brazil",
+        "last_update": "2017-11-14T10:30:23.635400",
+        "name": "Petrobras",
+        "neighborhood": "Nova Descoberta",
+        "position": "-5.8235901,-35.2088756",
+        "price": "3.89",
+        "star_votes": {
+            "1": "89",
+            "2": "78",
+            "3": "24",
+            "4": "63",
+            "5": "53"
+        },
+        "zone": "sul"
+    },
+    "GasStation-2ccf7b79": {
+        "formatted_address": "Av. Ayrton Senna, 2109 - Capim Macio, RN, 59151-610, Brazil",
+        "last_update": "2017-11-14T10:30:11.309685",
+        "name": "Petrobras",
+        "neighborhood": "Capim Macio",
+        "position": "-5.8890856,-35.1996051",
+        "price": "3.89",
+        "star_votes": {
+            "1": "71",
+            "2": "92",
+            "3": "11",
+            "4": "83",
+            "5": "1"
+        },
+        "zone": "sul"
+    },
+    "GasStation-2cea5584": {
+        "formatted_address": "Rua S\u007frgio Severo, 1326 - Lagoa Nova, Natal - RN, 59063-380, Brazil",
+        "last_update": "2017-11-14T10:30:18.500038",
+        "name": "Postos odon",
+        "neighborhood": "Lagoa Nova",
+        "position": "-5.8197834,-35.2139358",
+        "price": "3.89",
+        "star_votes": {
+            "1": "99",
+            "2": "84",
+            "3": "4",
+            "4": "57",
+            "5": "97"
+        },
+        "zone": "sul"
+    },
+    "GasStation-2dd93cca": {
+        "formatted_address": "R. da Saudade, 2000 - Nova Descoberta, Natal - RN, 59056-400, Brazil",
+        "last_update": "2017-11-14T10:30:23.415881",
+        "name": "Posto Rui Barbosa",
+        "neighborhood": "Ne\u007fpolis",
+        "position": "-5.8209221,-35.2047861",
+        "price": "3.89",
+        "star_votes": {
+            "1": "24",
+            "2": "92",
+            "3": "97",
+            "4": "28",
+            "5": "22"
+        },
+        "zone": "sul"
+    },
+    "GasStation-2f7a8840": {
+        "formatted_address": "Av. Sr. do Bonfim, 1500-1546 - Potengi, RN, Brazil",
+        "last_update": "2017-11-14T10:29:41.756021",
+        "name": "Ipiranga",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7592712,-35.2475443",
+        "price": "3.89",
+        "star_votes": {
+            "1": "91",
+            "2": "51",
+            "3": "91",
+            "4": "81",
+            "5": "87"
+        },
+        "zone": "norte"
+    },
+    "GasStation-2fbd2abd": {
+        "formatted_address": "Av. Bacharel Tomaz Landim, 17 - Igap\u007f, Natal - RN, 59290-000, Brazil",
+        "last_update": "2017-11-14T10:29:33.606454",
+        "name": "Posto Macaco - Posto Ale",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7740971,-35.2591468",
+        "price": "3.89",
+        "star_votes": {
+            "1": "74",
+            "2": "46",
+            "3": "26",
+            "4": "90",
+            "5": "13"
+        },
+        "zone": "norte"
+    },
+    "GasStation-32c267f8": {
+        "formatted_address": "R. Chile, 128 - Ribeira, Natal - RN, 59012-250, Brazil",
+        "last_update": "2017-11-14T10:30:36.432947",
+        "name": "Produmar Cia Exp de Prod do Mar",
+        "neighborhood": "Ribeira",
+        "position": "-5.7769441,-35.2063247",
+        "price": "3.89",
+        "star_votes": {
+            "1": "34",
+            "2": "96",
+            "3": "12",
+            "4": "66",
+            "5": "1"
+        },
+        "zone": "leste"
+    },
+    "GasStation-3480f4ab": {
+        "formatted_address": "Av. Ayrton Senna, 1400 - Ne\u007fpolis, Natal - RN, 59080-100, Brazil",
+        "last_update": "2017-11-14T10:29:48.776406",
+        "name": "PG Postos",
+        "neighborhood": "Nordeste",
+        "position": "-5.8625286,-35.2054445",
+        "price": "3.89",
+        "star_votes": {
+            "1": "96",
+            "2": "10",
+            "3": "74",
+            "4": "59",
+            "5": "88"
+        },
+        "zone": "norte"
+    },
+    "GasStation-35466cb4": {
+        "formatted_address": "Av. Bacharel Tomaz Landim, 1340 - Sala D, Nova Zelandia - RN, 59290-000, Brazil",
+        "last_update": "2017-11-14T10:29:36.536079",
+        "name": "Auto Posto Sao Tome Ltda",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7748663,-35.255986",
+        "price": "3.89",
+        "star_votes": {
+            "1": "91",
+            "2": "73",
+            "3": "45",
+            "4": "64",
+            "5": "65"
+        },
+        "zone": "norte"
+    },
+    "GasStation-356175b7": {
+        "formatted_address": "Rod. Gov. M\u007frio Covas, 206 - Nossa Sra. da Apresenta\u007f\u007fo, Natal - RN, Brazil",
+        "last_update": "2017-11-14T10:29:55.074792",
+        "name": "Travessa Santo Expedito Numero 85",
+        "neighborhood": "Nossa Senhora da Apresenta\u007f\u007fo",
+        "position": "-5.757844,-35.288042",
+        "price": "3.89",
+        "star_votes": {
+            "1": "11",
+            "2": "88",
+            "3": "81",
+            "4": "39",
+            "5": "96"
+        },
+        "zone": "norte"
+    },
+    "GasStation-35b62883": {
+        "formatted_address": "Av. Moema Tinoco da Cunha Lima, 165 - Paju\u007fara, Natal - RN, 59133-090, Brazil",
+        "last_update": "2017-11-14T10:29:58.679796",
+        "name": "Posto Luana VI - Posto Fan",
+        "neighborhood": "Paju\u007fara",
+        "position": "-5.7431444,-35.2251358",
+        "price": "3.89",
+        "star_votes": {
+            "1": "39",
+            "2": "15",
+            "3": "52",
+            "4": "20",
+            "5": "39"
+        },
+        "zone": "norte"
+    },
+    "GasStation-35e59077": {
+        "formatted_address": "Av. Coronel Estevam, 1155 - Alecrim, Natal - RN, 59030-000, Brazil",
+        "last_update": "2017-11-14T10:30:29.893169",
+        "name": "Ferreira & Alvares",
+        "neighborhood": "Alecrim",
+        "position": "-5.7948764,-35.2147825",
+        "price": "3.89",
+        "star_votes": {
+            "1": "11",
+            "2": "87",
+            "3": "93",
+            "4": "39",
+            "5": "55"
+        },
+        "zone": "leste"
+    },
+    "GasStation-35f9e85a": {
+        "formatted_address": "R. S\u007fo Jo\u007fo de Deus, 128 - Rocas, Natal - RN, 59010-220, Brazil",
+        "last_update": "2017-11-14T10:30:36.880666",
+        "name": "Posto S\u007fo Jo\u007fo",
+        "neighborhood": "Rocas",
+        "position": "-5.7721277,-35.2022015",
+        "price": "3.89",
+        "star_votes": {
+            "1": "6",
+            "2": "98",
+            "3": "61",
+            "4": "88",
+            "5": "13"
+        },
+        "zone": "leste"
+    },
+    "GasStation-35fc259f": {
+        "formatted_address": "Av. Abel Cabral, 2118 - Nova Parnamirim, RN, Brazil",
+        "last_update": "2017-11-14T10:30:14.704036",
+        "name": "Posto Ale",
+        "neighborhood": "Capim Macio",
+        "position": "-5.8862166,-35.2001068",
+        "price": "3.89",
+        "star_votes": {
+            "1": "26",
+            "2": "91",
+            "3": "16",
+            "4": "38",
+            "5": "7"
+        },
+        "zone": "sul"
+    },
+    "GasStation-3660c517": {
+        "formatted_address": "Av. Sen. Salgado Filho, 2840 - Lagoa Nova, Natal - RN, 59064-000, Brazil",
+        "last_update": "2017-11-14T10:30:12.208258",
+        "name": "Natal Combustiveis",
+        "neighborhood": "Capim Macio",
+        "position": "-5.8236071,-35.2088579",
+        "price": "3.89",
+        "star_votes": {
+            "1": "100",
+            "2": "57",
+            "3": "100",
+            "4": "24",
+            "5": "72"
+        },
+        "zone": "sul"
+    },
+    "GasStation-37417825": {
+        "formatted_address": "Av. Capit\u007fo-Mor Gouveia, 1022 - CIDADE NOCA, Natal - RN, 59070-400, Brazil",
+        "last_update": "2017-11-14T10:30:14.022937",
+        "name": "D N NATAL COM DE COMB LTDA",
+        "neighborhood": "Capim Macio",
+        "position": "-5.8240087,-35.2252784",
+        "price": "3.89",
+        "star_votes": {
+            "1": "3",
+            "2": "16",
+            "3": "75",
+            "4": "1",
+            "5": "25"
+        },
+        "zone": "sul"
+    },
+    "GasStation-376c018b": {
+        "formatted_address": "Rod. Gov. M\u007frio Covas, 206 - Nossa Sra. da Apresenta\u007f\u007fo, Natal - RN, Brazil",
+        "last_update": "2017-11-14T10:29:55.296700",
+        "name": "posto de combust\u007fvel Campo Belo",
+        "neighborhood": "Nossa Senhora da Apresenta\u007f\u007fo",
+        "position": "-5.7578445,-35.288042",
+        "price": "3.89",
+        "star_votes": {
+            "1": "34",
+            "2": "11",
+            "3": "63",
+            "4": "23",
+            "5": "2"
+        },
+        "zone": "norte"
+    },
+    "GasStation-378b4a02": {
+        "formatted_address": "R. Cidade do Sol, 2167 - Pitimb\u007f, Natal - RN, 59067-720, Brazil",
+        "last_update": "2017-11-14T10:30:22.302871",
+        "name": "Posto Pinheiro",
+        "neighborhood": "Ne\u007fpolis",
+        "position": "-5.8707593,-35.2219946",
+        "price": "3.89",
+        "star_votes": {
+            "1": "73",
+            "2": "87",
+            "3": "71",
+            "4": "3",
+            "5": "43"
+        },
+        "zone": "sul"
+    },
+    "GasStation-37f3d700": {
+        "formatted_address": "Av. Bernardo Vieira, 2517 - Lagoa Seca, Natal - RN, 59041-004, Brazil",
+        "last_update": "2017-11-14T10:30:19.838406",
+        "name": "LUIZ FLOR & FILHOS LTDA",
+        "neighborhood": "Lagoa Nova",
+        "position": "-5.8082215,-35.2172032",
+        "price": "3.89",
+        "star_votes": {
+            "1": "69",
+            "2": "58",
+            "3": "7",
+            "4": "64",
+            "5": "31"
+        },
+        "zone": "sul"
+    },
+    "GasStation-382feef3": {
+        "formatted_address": "1100 - Av. Cidade Praia, 1028 - Lagoa Azul, Natal - RN, 59129-470, Brazil",
+        "last_update": "2017-11-14T10:29:38.816114",
+        "name": "Gas Station Ipiranga",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7413895,-35.2669368",
+        "price": "3.89",
+        "star_votes": {
+            "1": "69",
+            "2": "100",
+            "3": "67",
+            "4": "17",
+            "5": "13"
+        },
+        "zone": "norte"
+    },
+    "GasStation-3864c57c": {
+        "formatted_address": "Av. Industrial Jo\u007fo Francisco da Mota, 127 - Bom Pastor, Natal - RN, 59060-460, Brazil",
+        "last_update": "2017-11-14T10:29:42.433408",
+        "name": "Posto Potengi",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.8062756,-35.2418413",
+        "price": "3.89",
+        "star_votes": {
+            "1": "21",
+            "2": "75",
+            "3": "93",
+            "4": "80",
+            "5": "69"
+        },
+        "zone": "norte"
+    },
+    "GasStation-38679140": {
+        "formatted_address": "Av. das Alagoas, 358 - Ne\u007fpolis, Natal - RN, 59086-200, Brazil",
+        "last_update": "2017-11-14T10:30:11.977724",
+        "name": "Petrobras",
+        "neighborhood": "Capim Macio",
+        "position": "-5.8635793,-35.2123051",
+        "price": "3.89",
+        "star_votes": {
+            "1": "15",
+            "2": "53",
+            "3": "26",
+            "4": "72",
+            "5": "8"
+        },
+        "zone": "sul"
+    },
+    "GasStation-38ad6ed8": {
+        "formatted_address": "Av. Hermes da Fonseca, 755 - Tirol, Natal - RN, 59020-000, Brazil",
+        "last_update": "2017-11-14T10:30:35.548845",
+        "name": "G e L Petroleo",
+        "neighborhood": "Petr\u007fpolis",
+        "position": "-5.7915778,-35.1970743",
+        "price": "3.89",
+        "star_votes": {
+            "1": "69",
+            "2": "66",
+            "3": "44",
+            "4": "42",
+            "5": "81"
+        },
+        "zone": "leste"
+    },
+    "GasStation-39e0ad23": {
+        "formatted_address": "R. Apodi, 520 - Tirol, Natal - RN, 59020-130, Brazil",
+        "last_update": "2017-11-14T10:30:31.486775",
+        "name": "QUIRINO SOUZA COM PETROLEO SERV LTD",
+        "neighborhood": "Areia Preta",
+        "position": "-5.7919554,-35.199601",
+        "price": "3.89",
+        "star_votes": {
+            "1": "73",
+            "2": "16",
+            "3": "54",
+            "4": "66",
+            "5": "79"
+        },
+        "zone": "leste"
+    },
+    "GasStation-39ea03c4": {
+        "formatted_address": "Av. Coronel Estevam, 2048 - Alecrim, Natal - RN, 59052-200, Brazil",
+        "last_update": "2017-11-14T10:29:43.567328",
+        "name": "Posto Jota Flor II",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.8083176,-35.2293992",
+        "price": "3.89",
+        "star_votes": {
+            "1": "62",
+            "2": "9",
+            "3": "78",
+            "4": "93",
+            "5": "78"
+        },
+        "zone": "norte"
+    },
+    "GasStation-3aa1c731": {
+        "formatted_address": "Rua Torres Galv\u007fo, 35 - Alecrim, Natal - RN, 59032-160, Brazil",
+        "last_update": "2017-11-14T10:30:29.456022",
+        "name": "Dijosete e Cia",
+        "neighborhood": "Alecrim",
+        "position": "-5.8043533,-35.2163118",
+        "price": "3.89",
+        "star_votes": {
+            "1": "65",
+            "2": "1",
+            "3": "72",
+            "4": "17",
+            "5": "34"
+        },
+        "zone": "leste"
+    },
+    "GasStation-3b679bec": {
+        "formatted_address": "Av. Abel Cabral, 2118 - Nova Parnamirim, RN, Brazil",
+        "last_update": "2017-11-14T10:30:13.114197",
+        "name": "ALE",
+        "neighborhood": "Capim Macio",
+        "position": "-5.8829043,-35.2036421",
+        "price": "3.89",
+        "star_votes": {
+            "1": "91",
+            "2": "98",
+            "3": "64",
+            "4": "37",
+            "5": "33"
+        },
+        "zone": "sul"
+    },
+    "GasStation-3dc63ca4": {
+        "formatted_address": "R. Fonseca e Silva, 1059 - Alecrim, Natal - RN, 59030-270, Brazil",
+        "last_update": "2017-11-14T10:29:45.606931",
+        "name": "Posto Jota Flor I",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.79309,-35.21348",
+        "price": "3.89",
+        "star_votes": {
+            "1": "81",
+            "2": "29",
+            "3": "90",
+            "4": "70",
+            "5": "12"
+        },
+        "zone": "norte"
+    },
+    "GasStation-3df1dd3a": {
+        "formatted_address": "nova zona norte, Natal - RN, Brazil",
+        "last_update": "2017-11-14T10:29:54.626769",
+        "name": "Posto De Gsolina N N Nova Natal",
+        "neighborhood": "Nossa Senhora da Apresenta\u007f\u007fo",
+        "position": "-5.7590148,-35.2671166",
+        "price": "3.89",
+        "star_votes": {
+            "1": "16",
+            "2": "82",
+            "3": "15",
+            "4": "16",
+            "5": "50"
+        },
+        "zone": "norte"
+    },
+    "GasStation-3e7e797f": {
+        "formatted_address": "1226 - Av. Abel Cabral, 1204 - Nova Parnamirim, Natal - RN, Brazil",
+        "last_update": "2017-11-14T10:30:13.345738",
+        "name": "Posto Ale O.N. Combust\u007fveis",
+        "neighborhood": "Capim Macio",
+        "position": "-5.8780753,-35.2100337",
+        "price": "3.89",
+        "star_votes": {
+            "1": "76",
+            "2": "48",
+            "3": "58",
+            "4": "37",
+            "5": "4"
+        },
+        "zone": "sul"
+    },
+    "GasStation-3eae1443": {
+        "formatted_address": "Av. Dr. Jo\u007fo Medeiros Filho, 2005 - Potengi, RN, 59066-270, Brazil",
+        "last_update": "2017-11-14T10:29:38.354626",
+        "name": "Posto Carrefour",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7592728,-35.2475323",
+        "price": "3.89",
+        "star_votes": {
+            "1": "82",
+            "2": "26",
+            "3": "40",
+            "4": "11",
+            "5": "1"
+        },
+        "zone": "norte"
+    },
+    "GasStation-3f479fa8": {
+        "formatted_address": "Av. Amintas Barros, 2672 - Lagoa Nova, Natal - RN, 59062-250, Brazil",
+        "last_update": "2017-11-14T10:30:04.310388",
+        "name": "Parelhas Gas",
+        "neighborhood": "Salinas",
+        "position": "-5.8173855,-35.2177701",
+        "price": "3.89",
+        "star_votes": {
+            "1": "63",
+            "2": "31",
+            "3": "62",
+            "4": "7",
+            "5": "53"
+        },
+        "zone": "norte"
+    },
+    "GasStation-40a0b381": {
+        "formatted_address": "Av. Solange Nunes do Nascimento, 20 - Cidade Nova, Natal - RN, 59072-500, Brazil",
+        "last_update": "2017-11-14T10:30:26.342414",
+        "name": "M D & G Oliveira Reis Com Combs Ltda Me",
+        "neighborhood": "Pitimbu",
+        "position": "-5.8309149,-35.239786",
+        "price": "3.89",
+        "star_votes": {
+            "1": "89",
+            "2": "62",
+            "3": "68",
+            "4": "54",
+            "5": "44"
+        },
+        "zone": "sul"
+    },
+    "GasStation-41808179": {
+        "formatted_address": "Av. Dr. Jo\u007fo Medeiros Filho, 975 - Igap\u007f, Natal - RN, 59104-200, Brazil",
+        "last_update": "2017-11-14T10:29:35.855828",
+        "name": "Zumba Petr\u007fleo",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.762659,-35.2520454",
+        "price": "3.89",
+        "star_votes": {
+            "1": "96",
+            "2": "11",
+            "3": "30",
+            "4": "74",
+            "5": "21"
+        },
+        "zone": "norte"
+    },
+    "GasStation-42991fcf": {
+        "formatted_address": "Av. Industrial Jo\u007fo Francisco da Mota, 3459 - Quintas, Natal - RN, 59050-480, Brazil",
+        "last_update": "2017-11-14T10:30:02.729050",
+        "name": "Comercial Carau",
+        "neighborhood": "Quintas",
+        "position": "-5.8157446,-35.248544",
+        "price": "3.89",
+        "star_votes": {
+            "1": "73",
+            "2": "76",
+            "3": "67",
+            "4": "12",
+            "5": "31"
+        },
+        "zone": "norte"
+    },
+    "GasStation-43ffc764": {
+        "formatted_address": "R. Cel. Jos\u007f Bernardo, s/n - Distrito Industrial, S\u007fo Gon\u007falo do Amarante - RN, 59290-000, Brazil",
+        "last_update": "2017-11-14T10:30:36.658021",
+        "name": "Posto Novo Horizonte",
+        "neighborhood": "Ribeira",
+        "position": "-5.7917027,-35.2102269",
+        "price": "3.89",
+        "star_votes": {
+            "1": "100",
+            "2": "27",
+            "3": "91",
+            "4": "76",
+            "5": "32"
+        },
+        "zone": "leste"
+    },
+    "GasStation-4446bccc": {
+        "formatted_address": "Av. Sen. Salgado Filho, 411 - Mirassol, RN, 59078-000, Brazil",
+        "last_update": "2017-11-14T10:29:52.148647",
+        "name": "Posto Mirassol",
+        "neighborhood": "Nordeste",
+        "position": "-5.8105901,-35.204596",
+        "price": "3.89",
+        "star_votes": {
+            "1": "94",
+            "2": "42",
+            "3": "8",
+            "4": "75",
+            "5": "71"
+        },
+        "zone": "norte"
+    },
+    "GasStation-447b7a4c": {
+        "formatted_address": "Av. Bernardo Vieira, 627 - Quintas, Natal - RN, 59041-000, Brazil",
+        "last_update": "2017-11-14T10:30:02.953599",
+        "name": "Posto Soares",
+        "neighborhood": "Quintas",
+        "position": "-5.8022569,-35.2330905",
+        "price": "3.89",
+        "star_votes": {
+            "1": "96",
+            "2": "77",
+            "3": "68",
+            "4": "57",
+            "5": "45"
+        },
+        "zone": "norte"
+    },
+    "GasStation-4640647f": {
+        "formatted_address": "R. Felipe Camar\u007fo, 126, Extremoz - RN, 59575-000, Brazil",
+        "last_update": "2017-11-14T10:30:42.272338",
+        "name": "POSTO EXTREMOZ",
+        "neighborhood": "Felipe Camar\u007fo",
+        "position": "-5.7058226,-35.3000408",
+        "price": "3.89",
+        "star_votes": {
+            "1": "60",
+            "2": "17",
+            "3": "89",
+            "4": "95",
+            "5": "50"
+        },
+        "zone": "oeste"
+    },
+    "GasStation-46fcb8dc": {
+        "formatted_address": "Av. Coronel Estevam, 934-1090 - Alecrim, Natal - RN, 59031-270, Brazil",
+        "last_update": "2017-11-14T10:30:30.808688",
+        "name": "Posto Max Frota",
+        "neighborhood": "Alecrim",
+        "position": "-5.7934993,-35.2132429",
+        "price": "3.89",
+        "star_votes": {
+            "1": "48",
+            "2": "2",
+            "3": "57",
+            "4": "63",
+            "5": "59"
+        },
+        "zone": "leste"
+    },
+    "GasStation-47d5b367": {
+        "formatted_address": "Av. Capit\u007fo-Mor Gouveia, 1022 - Cidade Nova, Natal - RN, 59060-400, Brazil",
+        "last_update": "2017-11-14T10:30:34.424732",
+        "name": "Posto Shell - Posto Senador",
+        "neighborhood": "Cidade Alta",
+        "position": "-5.8227597,-35.2299672",
+        "price": "3.89",
+        "star_votes": {
+            "1": "9",
+            "2": "63",
+            "3": "16",
+            "4": "29",
+            "5": "51"
+        },
+        "zone": "leste"
+    },
+    "GasStation-47f74f46": {
+        "formatted_address": "Rota do Sol - Vila de Ponta Negra, Natal - RN, Brazil",
+        "last_update": "2017-11-14T10:30:28.578009",
+        "name": "Rota Do Sol",
+        "neighborhood": "Ponta Negra",
+        "position": "-5.8905436,-35.1800653",
+        "price": "3.89",
+        "star_votes": {
+            "1": "51",
+            "2": "64",
+            "3": "99",
+            "4": "37",
+            "5": "16"
+        },
+        "zone": "sul"
+    },
+    "GasStation-488398bd": {
+        "formatted_address": "R. Felipe Camar\u007fo, 1550 - Aeroporto, RN, 59603-340, Brazil",
+        "last_update": "2017-11-14T10:30:41.811972",
+        "name": "\u007fgua Altas",
+        "neighborhood": "Felipe Camar\u007fo",
+        "position": "-5.8337409,-35.246694",
+        "price": "3.89",
+        "star_votes": {
+            "1": "59",
+            "2": "94",
+            "3": "50",
+            "4": "15",
+            "5": "96"
+        },
+        "zone": "oeste"
+    },
+    "GasStation-490327dd": {
+        "formatted_address": "Av. Bernardo Vieira, 2517 - Alecrim, Natal - RN, 59032-445, Brazil",
+        "last_update": "2017-11-14T10:30:19.384083",
+        "name": "Posto Sao Luiz V",
+        "neighborhood": "Lagoa Nova",
+        "position": "-5.8081298,-35.2172295",
+        "price": "3.89",
+        "star_votes": {
+            "1": "28",
+            "2": "19",
+            "3": "46",
+            "4": "97",
+            "5": "7"
+        },
+        "zone": "sul"
+    },
+    "GasStation-492808a6": {
+        "formatted_address": "Av. Bacharel Tomaz Landim, 4500 - Igap\u007f, Natal - RN, 59104-000, Brazil",
+        "last_update": "2017-11-14T10:29:36.310129",
+        "name": "BR",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7622896,-35.287757",
+        "price": "3.89",
+        "star_votes": {
+            "1": "28",
+            "2": "15",
+            "3": "9",
+            "4": "55",
+            "5": "54"
+        },
+        "zone": "norte"
+    },
+    "GasStation-4a2aa146": {
+        "formatted_address": "6065 - Av. Capit\u007fo-Mor Gouveia, 5993 - Felipe Camar\u007fo, Natal - RN, Brazil",
+        "last_update": "2017-11-14T10:29:40.846429",
+        "name": "Gas Station",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.8228254,-35.2298298",
+        "price": "3.89",
+        "star_votes": {
+            "1": "36",
+            "2": "100",
+            "3": "85",
+            "4": "21",
+            "5": "11"
+        },
+        "zone": "norte"
+    },
+    "GasStation-4cf5c657": {
+        "formatted_address": "Av. Ayrton Senna, 2949 - Capim Macio, Natal - RN, Brazil",
+        "last_update": "2017-11-14T10:30:10.850861",
+        "name": "Posto Petrobras",
+        "neighborhood": "Capim Macio",
+        "position": "-5.8775606,-35.2014957",
+        "price": "3.89",
+        "star_votes": {
+            "1": "9",
+            "2": "46",
+            "3": "93",
+            "4": "92",
+            "5": "85"
+        },
+        "zone": "sul"
+    },
+    "GasStation-4d0c4935": {
+        "formatted_address": "Avenida Prudente de Morais, 1854 - Lagoa Nova, Natal - RN, 59020-400, Brazil",
+        "last_update": "2017-11-14T10:30:08.597314",
+        "name": "Comercial Carau",
+        "neighborhood": "Candel\u007fria",
+        "position": "-5.8472212,-35.2239088",
+        "price": "3.89",
+        "star_votes": {
+            "1": "5",
+            "2": "99",
+            "3": "44",
+            "4": "69",
+            "5": "32"
+        },
+        "zone": "sul"
+    },
+    "GasStation-4d29d8b7": {
+        "formatted_address": "Av. Lima e Silva, 225 - Nossa Sra. de Nazar\u007f, Natal - RN, 59062-070, Brazil",
+        "last_update": "2017-11-14T10:29:47.200252",
+        "name": "Transportadora Silveira & Silveira LTDA",
+        "neighborhood": "Nordeste",
+        "position": "-5.8175757,-35.230951",
+        "price": "3.89",
+        "star_votes": {
+            "1": "98",
+            "2": "52",
+            "3": "45",
+            "4": "7",
+            "5": "49"
+        },
+        "zone": "norte"
+    },
+    "GasStation-4e517bda": {
+        "formatted_address": "R. Dr. Mario Neg\u007fcio, 2202 - Quintas, Natal - RN, 59040-000, Brazil",
+        "last_update": "2017-11-14T10:30:03.393716",
+        "name": "Posto San Marino",
+        "neighborhood": "Quintas",
+        "position": "-5.7985873,-35.2372083",
+        "price": "3.89",
+        "star_votes": {
+            "1": "4",
+            "2": "42",
+            "3": "71",
+            "4": "25",
+            "5": "90"
+        },
+        "zone": "norte"
+    },
+    "GasStation-4ea1fb76": {
+        "formatted_address": "Av. Sen. Salgado Filho, 1552 - Tirol, Natal - RN, 59022-000, Brazil",
+        "last_update": "2017-11-14T10:30:18.942336",
+        "name": "G B COMERCIO DE COMBUSTIVEIS LTDA",
+        "neighborhood": "Lagoa Nova",
+        "position": "-5.8133403,-35.2054601",
+        "price": "3.89",
+        "star_votes": {
+            "1": "61",
+            "2": "21",
+            "3": "9",
+            "4": "28",
+            "5": "93"
+        },
+        "zone": "sul"
+    },
+    "GasStation-4fecf40f": {
+        "formatted_address": "-2481 - Av. Interventor Mario C\u007fmara, 2477 - Cidade da Esperan\u007fa, RN, Brazil",
+        "last_update": "2017-11-14T10:30:16.939882",
+        "name": "ALE",
+        "neighborhood": "Lagoa Nova",
+        "position": "-5.8303783,-35.2330536",
+        "price": "3.89",
+        "star_votes": {
+            "1": "92",
+            "2": "22",
+            "3": "30",
+            "4": "32",
+            "5": "96"
+        },
+        "zone": "sul"
+    },
+    "GasStation-501eb44c": {
+        "formatted_address": "Av. Alm. Alexandrino de Alencar, 1000 - Lagoa Seca, Natal - RN, 59031-350, Brazil",
+        "last_update": "2017-11-14T10:29:41.070862",
+        "name": "Parelhas Gas",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.8044037,-35.2092934",
+        "price": "3.89",
+        "star_votes": {
+            "1": "20",
+            "2": "25",
+            "3": "69",
+            "4": "2",
+            "5": "16"
+        },
+        "zone": "norte"
+    },
+    "GasStation-50767efc": {
+        "formatted_address": "R. Pres. Sarmento, 426 - Alecrim, Natal - RN, 59032-400, Brazil",
+        "last_update": "2017-11-14T10:30:31.043989",
+        "name": "Petrobras",
+        "neighborhood": "Alecrim",
+        "position": "-5.7967288,-35.223163",
+        "price": "3.89",
+        "star_votes": {
+            "1": "32",
+            "2": "89",
+            "3": "37",
+            "4": "93",
+            "5": "35"
+        },
+        "zone": "leste"
+    },
+    "GasStation-52cc5374": {
+        "formatted_address": "Av. Pres. Caf\u007f Filho, 820 - Praia do Meio, Natal - RN, 59010-000, Brazil",
+        "last_update": "2017-11-14T10:30:31.265696",
+        "name": "Posto Senador IX",
+        "neighborhood": "Areia Preta",
+        "position": "-5.7769683,-35.194259",
+        "price": "3.89",
+        "star_votes": {
+            "1": "52",
+            "2": "29",
+            "3": "2",
+            "4": "83",
+            "5": "93"
+        },
+        "zone": "leste"
+    },
+    "GasStation-53dc6a63": {
+        "formatted_address": "Av. Sen. Salgado Filho, 2840 - Lagoa Nova, Natal - RN, 59064-000, Brazil",
+        "last_update": "2017-11-14T10:30:17.159651",
+        "name": "H G V Com\u007frcio de Petroleo",
+        "neighborhood": "Lagoa Nova",
+        "position": "-5.8236071,-35.2088579",
+        "price": "3.89",
+        "star_votes": {
+            "1": "93",
+            "2": "28",
+            "3": "24",
+            "4": "83",
+            "5": "11"
+        },
+        "zone": "sul"
+    },
+    "GasStation-5550a3b2": {
+        "formatted_address": "R. Fonseca e Silva, 1059 - Alecrim, Natal - RN, 59030-270, Brazil",
+        "last_update": "2017-11-14T10:30:33.052549",
+        "name": "Petrobras",
+        "neighborhood": "Areia Preta",
+        "position": "-5.7932572,-35.2133354",
+        "price": "3.89",
+        "star_votes": {
+            "1": "40",
+            "2": "56",
+            "3": "65",
+            "4": "4",
+            "5": "17"
+        },
+        "zone": "leste"
+    },
+    "GasStation-565fbb7a": {
+        "formatted_address": "Av. Governador Tarc\u007fsio de Vasconcelos Maia, 2036 - Candel\u007fria, Natal - RN, Brazil",
+        "last_update": "2017-11-14T10:30:07.450865",
+        "name": "Posto Madre Teresa",
+        "neighborhood": "Candel\u007fria",
+        "position": "-5.8458145,-35.2166095",
+        "price": "3.89",
+        "star_votes": {
+            "1": "26",
+            "2": "53",
+            "3": "77",
+            "4": "36",
+            "5": "42"
+        },
+        "zone": "sul"
+    },
+    "GasStation-57e3c5e1": {
+        "formatted_address": "Rua Felizardo Moura, 848 - Nordeste, Natal - RN, 59042-200, Brazil",
+        "last_update": "2017-11-14T10:29:39.051995",
+        "name": "Posto de Combust\u007fveis Campo Belo",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7943594,-35.2418634",
+        "price": "3.89",
+        "star_votes": {
+            "1": "9",
+            "2": "78",
+            "3": "60",
+            "4": "56",
+            "5": "24"
+        },
+        "zone": "norte"
+    },
+    "GasStation-586b5240": {
+        "formatted_address": "Av. Maria Lacerda Montenegro, 510 - Centro, Natal - RN, 59150-000, Brazil",
+        "last_update": "2017-11-14T10:30:25.208245",
+        "name": "Uniao Derivados de Petroleo",
+        "neighborhood": "Pitimbu",
+        "position": "-5.8804294,-35.2153836",
+        "price": "3.89",
+        "star_votes": {
+            "1": "41",
+            "2": "92",
+            "3": "71",
+            "4": "2",
+            "5": "54"
+        },
+        "zone": "sul"
+    },
+    "GasStation-589957e1": {
+        "formatted_address": "Av. Miguel Castro, Natal - RN, Brazil",
+        "last_update": "2017-11-14T10:29:57.775919",
+        "name": "Petrobras",
+        "neighborhood": "Nossa Senhora da Apresenta\u007f\u007fo",
+        "position": "-5.814469,-35.232704",
+        "price": "3.89",
+        "star_votes": {
+            "1": "4",
+            "2": "39",
+            "3": "2",
+            "4": "46",
+            "5": "34"
+        },
+        "zone": "norte"
+    },
+    "GasStation-58f02a3a": {
+        "formatted_address": "Av. Interventor Mario C\u007fmara, Rio Grande do Norte, Brazil",
+        "last_update": "2017-11-14T10:29:43.116916",
+        "name": "inspetrans -GNV Inspe\u007f\u007fo",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.8179412,-35.2285007",
+        "price": "3.89",
+        "star_votes": {
+            "1": "99",
+            "2": "15",
+            "3": "88",
+            "4": "88",
+            "5": "16"
+        },
+        "zone": "norte"
+    },
+    "GasStation-59f26f9a": {
+        "formatted_address": "Av. Capit\u007fo-Mor Gouveia, 737 - Bom Pastor, Natal - RN, 59060-400, Brazil",
+        "last_update": "2017-11-14T10:29:56.429637",
+        "name": "Auto Gas Jr",
+        "neighborhood": "Nossa Senhora da Apresenta\u007f\u007fo",
+        "position": "-5.8211206,-35.2330218",
+        "price": "3.89",
+        "star_votes": {
+            "1": "95",
+            "2": "27",
+            "3": "98",
+            "4": "10",
+            "5": "95"
+        },
+        "zone": "norte"
+    },
+    "GasStation-59f5a5a8": {
+        "formatted_address": "Av. Alm. Alexandrino de Alencar, 593, Natal - RN, 59030-350, Brazil",
+        "last_update": "2017-11-14T10:29:45.157512",
+        "name": "Alvares e Alvares Lt",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7978082,-35.2134417",
+        "price": "3.89",
+        "star_votes": {
+            "1": "37",
+            "2": "76",
+            "3": "51",
+            "4": "42",
+            "5": "76"
+        },
+        "zone": "norte"
+    },
+    "GasStation-5a799dd2": {
+        "formatted_address": "Av. Alm. Alexandrino de Alencar, 776 - Lagoa Seca, Natal - RN, 59022-350, Brazil",
+        "last_update": "2017-11-14T10:29:46.056783",
+        "name": "Posto Monte Belo III - Posto ALE",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.8016284,-35.2116914",
+        "price": "3.89",
+        "star_votes": {
+            "1": "56",
+            "2": "55",
+            "3": "62",
+            "4": "34",
+            "5": "7"
+        },
+        "zone": "norte"
+    },
+    "GasStation-5b31730f": {
+        "formatted_address": "Av. Romualdo Galv\u007fo, 1954 - Lagoa Nova, Natal - RN, 59056-105, Brazil",
+        "last_update": "2017-11-14T10:30:19.164189",
+        "name": "Petrobras",
+        "neighborhood": "Lagoa Nova",
+        "position": "-5.8119308,-35.2083013",
+        "price": "3.89",
+        "star_votes": {
+            "1": "76",
+            "2": "35",
+            "3": "96",
+            "4": "59",
+            "5": "97"
+        },
+        "zone": "sul"
+    },
+    "GasStation-5b4d6796": {
+        "formatted_address": "R. Ari Barroso, S/N - Nossa Sra. de Nazar\u007f, Natal - RN, 59062-265, Brazil",
+        "last_update": "2017-11-14T10:29:56.878128",
+        "name": "Posto Cooptax - Posto Ipiranga",
+        "neighborhood": "Nossa Senhora da Apresenta\u007f\u007fo",
+        "position": "-5.8151155,-35.2336749",
+        "price": "3.89",
+        "star_votes": {
+            "1": "99",
+            "2": "98",
+            "3": "86",
+            "4": "30",
+            "5": "27"
+        },
+        "zone": "norte"
+    },
+    "GasStation-5ba304b1": {
+        "formatted_address": "Av. Bernardo Vieira, 3594 - Lagoa Nova, RN, 59051-005, Brazil",
+        "last_update": "2017-11-14T10:29:43.789507",
+        "name": "Posto Abrantes Servcar BR",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.8039672,-35.2288468",
+        "price": "3.89",
+        "star_votes": {
+            "1": "6",
+            "2": "29",
+            "3": "62",
+            "4": "33",
+            "5": "16"
+        },
+        "zone": "norte"
+    },
+    "GasStation-5ca09aed": {
+        "formatted_address": "Av. Prudente de Morais, 3949 - Lagoa Nova, Natal - RN, 59054-700, Brazil",
+        "last_update": "2017-11-14T10:30:15.152102",
+        "name": "Posto Cirne",
+        "neighborhood": "Lagoa Nova",
+        "position": "-5.816917,-35.21165",
+        "price": "3.89",
+        "star_votes": {
+            "1": "16",
+            "2": "61",
+            "3": "26",
+            "4": "73",
+            "5": "95"
+        },
+        "zone": "sul"
+    },
+    "GasStation-5ff49371": {
+        "formatted_address": "R. Apodi, 349 - Tirol, Natal - RN, 59020-130, Brazil",
+        "last_update": "2017-11-14T10:30:37.320742",
+        "name": "J N Derivados de Petroleo",
+        "neighborhood": "Tirol",
+        "position": "-5.7899458,-35.2042423",
+        "price": "3.89",
+        "star_votes": {
+            "1": "37",
+            "2": "42",
+            "3": "30",
+            "4": "65",
+            "5": "24"
+        },
+        "zone": "leste"
+    },
+    "GasStation-61dcddb0": {
+        "formatted_address": "Rua Mermoz, 280 - Cidade Alta, Natal - RN, 59025-250, Brazil",
+        "last_update": "2017-11-14T10:30:35.769303",
+        "name": "Posto Ipiranga",
+        "neighborhood": "Petr\u007fpolis",
+        "position": "-5.7921965,-35.2078491",
+        "price": "3.89",
+        "star_votes": {
+            "1": "76",
+            "2": "26",
+            "3": "49",
+            "4": "71",
+            "5": "82"
+        },
+        "zone": "leste"
+    },
+    "GasStation-63692e61": {
+        "formatted_address": "Rodovia BR 101 CS KM BL8, 1999 - Nova Parnamirim, RN, 59150-000, Brazil",
+        "last_update": "2017-11-14T10:30:26.113683",
+        "name": "ALE",
+        "neighborhood": "Pitimbu",
+        "position": "-5.8860294,-35.2305678",
+        "price": "3.89",
+        "star_votes": {
+            "1": "78",
+            "2": "29",
+            "3": "7",
+            "4": "44",
+            "5": "82"
+        },
+        "zone": "sul"
+    },
+    "GasStation-63d7cb22": {
+        "formatted_address": "n\u007f - Av. Sen. Salgado Filho, 411 - Capim Macio, Natal - RN, 59064-741, Brazil",
+        "last_update": "2017-11-14 10:38:04.897893-03:00",
+        "name": "POSTO DE COMBUST\u007fVEIS E DERIVADOS",
+        "neighborhood": "Capim Macio",
+        "position": "-5.8386228,-35.2115921",
+        "price": "3.5",
+        "star_votes": {
+            "1": "79",
+            "2": "34",
+            "3": "23",
+            "4": "1",
+            "5": "77"
+        },
+        "zone": "sul"
+    },
+    "GasStation-646d425a": {
+        "formatted_address": "Av. das Fronteiras, 1000 - Igap\u007f, Natal - RN, 59108-355, Brazil",
+        "last_update": "2017-11-14T10:29:36.079023",
+        "name": "M. B. R Comercial",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7579969,-35.2639023",
+        "price": "3.89",
+        "star_votes": {
+            "1": "6",
+            "2": "62",
+            "3": "77",
+            "4": "100",
+            "5": "65"
+        },
+        "zone": "norte"
+    },
+    "GasStation-6595cfd5": {
+        "formatted_address": "R. Jaguarari, 4227 - Candel\u007fria II, Natal - RN, 59054-500, Brazil",
+        "last_update": "2017-11-14T10:29:48.103690",
+        "name": "Carau Gas",
+        "neighborhood": "Nordeste",
+        "position": "-5.8317138,-35.2227887",
+        "price": "3.89",
+        "star_votes": {
+            "1": "62",
+            "2": "31",
+            "3": "64",
+            "4": "68",
+            "5": "56"
+        },
+        "zone": "norte"
+    },
+    "GasStation-671f720d": {
+        "formatted_address": "R. Manoel de Castro, 1170 - Cidade da Esperan\u007fa, Natal - RN, 59064-010, Brazil",
+        "last_update": "2017-11-14T10:30:39.779341",
+        "name": "ALE",
+        "neighborhood": "Cidade da Esperan\u007fa",
+        "position": "-5.8302677,-35.232823",
+        "price": "3.89",
+        "star_votes": {
+            "1": "80",
+            "2": "86",
+            "3": "63",
+            "4": "54",
+            "5": "14"
+        },
+        "zone": "oeste"
+    },
+    "GasStation-673e1093": {
+        "formatted_address": "Av. Capit\u007fo-Mor Gouveia, 1022 - Dix-Sept Rosado, Natal - RN, 59070-400, Brazil",
+        "last_update": "2017-11-14T10:30:41.134645",
+        "name": "Solpetro Com\u007frcio de Petroleo",
+        "neighborhood": "Dix-Sept Rosado",
+        "position": "-5.8157512,-35.2481033",
+        "price": "3.89",
+        "star_votes": {
+            "1": "48",
+            "2": "36",
+            "3": "43",
+            "4": "2",
+            "5": "68"
+        },
+        "zone": "oeste"
+    },
+    "GasStation-67741b38": {
+        "formatted_address": "Av. Mal. Floriano Peixoto, 467 - Petr\u007fpolis, Natal - RN, 59020-500, Brazil",
+        "last_update": "2017-11-14T10:30:00.939385",
+        "name": "Ale",
+        "neighborhood": "Paju\u007fara",
+        "position": "-5.7846844,-35.2018679",
+        "price": "3.89",
+        "star_votes": {
+            "1": "71",
+            "2": "63",
+            "3": "86",
+            "4": "31",
+            "5": "17"
+        },
+        "zone": "norte"
+    },
+    "GasStation-688befa6": {
+        "formatted_address": "Av. Amintas Barros, 2672 - Lagoa Nova, Natal - RN, 59062-250, Brazil",
+        "last_update": "2017-11-14T10:29:47.426741",
+        "name": "Parelhas Gas Ltda",
+        "neighborhood": "Nordeste",
+        "position": "-5.8176017,-35.2176504",
+        "price": "3.89",
+        "star_votes": {
+            "1": "85",
+            "2": "73",
+            "3": "17",
+            "4": "50",
+            "5": "88"
+        },
+        "zone": "norte"
+    },
+    "GasStation-68b1dded": {
+        "formatted_address": "Av. Bernardo Vieira, 3433 - Lagoa Seca, Natal - RN, 59041-006, Brazil",
+        "last_update": "2017-11-14T10:30:34.646510",
+        "name": "M. B. R Comercial",
+        "neighborhood": "Lagoa Seca",
+        "position": "-5.8107596,-35.2093731",
+        "price": "3.89",
+        "star_votes": {
+            "1": "57",
+            "2": "55",
+            "3": "75",
+            "4": "24",
+            "5": "9"
+        },
+        "zone": "leste"
+    },
+    "GasStation-691fb8db": {
+        "formatted_address": "Marginal Avenida Sen. Salgado Filho, 2815 - Lagoa Nova, Natal - RN, 59078-000, Brazil",
+        "last_update": "2017-11-15 11:23:14.542668-03:00",
+        "name": "POSTO SAO LUIZ LTDA",
+        "neighborhood": "Capim Macio",
+        "position": "-5.8329834,-35.2120524",
+        "price": "3.8",
+        "star_votes": {
+            "1": "80",
+            "2": "68",
+            "3": "11",
+            "4": "46",
+            "5": "12"
+        },
+        "zone": "sul"
+    },
+    "GasStation-69636fc9": {
+        "formatted_address": "Av. Alm. Alexandrino de Alencar, 976-996 - Tirol, Natal - RN, 59015-350, Brazil",
+        "last_update": "2017-11-14T10:30:37.101990",
+        "name": "Petrobras",
+        "neighborhood": "Tirol",
+        "position": "-5.8044287,-35.2092611",
+        "price": "3.89",
+        "star_votes": {
+            "1": "35",
+            "2": "71",
+            "3": "36",
+            "4": "22",
+            "5": "38"
+        },
+        "zone": "leste"
+    },
+    "GasStation-69d464d5": {
+        "formatted_address": "Av. Dr. Jo\u007fo Medeiros Filho, 975 - Igap\u007f, Natal - RN, 59104-200, Brazil",
+        "last_update": "2017-11-14T10:29:34.272325",
+        "name": "A. S. C. Combustiveis e Lubrificantes",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7748608,-35.2541066",
+        "price": "3.89",
+        "star_votes": {
+            "1": "63",
+            "2": "36",
+            "3": "39",
+            "4": "84",
+            "5": "30"
+        },
+        "zone": "norte"
+    },
+    "GasStation-6a837f42": {
+        "formatted_address": "Av. Moema Tinoco da Cunha Lima, 2490 - Paju\u007fara, Natal - RN, 59122-335, Brazil",
+        "last_update": "2017-11-14T10:29:58.903595",
+        "name": "Posto Paju\u007fara",
+        "neighborhood": "Paju\u007fara",
+        "position": "-5.7219395,-35.2433432",
+        "price": "3.89",
+        "star_votes": {
+            "1": "81",
+            "2": "73",
+            "3": "62",
+            "4": "90",
+            "5": "92"
+        },
+        "zone": "norte"
+    },
+    "GasStation-6aeb781f": {
+        "formatted_address": "Rod BR 406, s/n - Quajiru, Natal - RN, 59110-970, Brazil",
+        "last_update": "2017-11-14T10:29:37.672199",
+        "name": "Posto Cirne",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.766903,-35.2780874",
+        "price": "3.89",
+        "star_votes": {
+            "1": "81",
+            "2": "22",
+            "3": "41",
+            "4": "54",
+            "5": "16"
+        },
+        "zone": "norte"
+    },
+    "GasStation-6b6c6c42": {
+        "formatted_address": "Av. Solange Nunes do Nascimento, 20 - Cidade Nova, Natal - RN, 59072-500, Brazil",
+        "last_update": "2017-11-14T10:30:20.513199",
+        "name": "L & L Comercial",
+        "neighborhood": "Lagoa Nova",
+        "position": "-5.8309149,-35.239786",
+        "price": "3.89",
+        "star_votes": {
+            "1": "67",
+            "2": "35",
+            "3": "28",
+            "4": "52",
+            "5": "48"
+        },
+        "zone": "sul"
+    },
+    "GasStation-6b8353df": {
+        "formatted_address": "Av. Hermes da Fonseca, 1031 - Tirol, Natal - RN, 59014-615, Brazil",
+        "last_update": "2017-11-14T10:30:32.148095",
+        "name": "JC Comercial de Petr\u007fleo",
+        "neighborhood": "Areia Preta",
+        "position": "-5.7962622,-35.1989924",
+        "price": "3.89",
+        "star_votes": {
+            "1": "63",
+            "2": "64",
+            "3": "97",
+            "4": "36",
+            "5": "86"
+        },
+        "zone": "leste"
+    },
+    "GasStation-6c9343a9": {
+        "formatted_address": "Av. Prudente de Morais, 2056 - Barro Vermelho, Natal - RN, 59020-400, Brazil",
+        "last_update": "2017-11-14T10:30:39.562135",
+        "name": "Posto Shell - Posto S\u007fo Luiz IV",
+        "neighborhood": "Bom Pastor",
+        "position": "-5.8004811,-35.2063247",
+        "price": "3.89",
+        "star_votes": {
+            "1": "17",
+            "2": "66",
+            "3": "25",
+            "4": "37",
+            "5": "84"
+        },
+        "zone": "oeste"
+    },
+    "GasStation-6e820bf9": {
+        "formatted_address": "Av. Dr. Jo\u007fo Medeiros Filho, 2230 - Potengi, Natal - RN, 59120-555, Brazil",
+        "last_update": "2017-11-14T10:29:39.284979",
+        "name": "Petrobras",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7602278,-35.2481886",
+        "price": "3.89",
+        "star_votes": {
+            "1": "90",
+            "2": "46",
+            "3": "33",
+            "4": "13",
+            "5": "97"
+        },
+        "zone": "norte"
+    },
+    "GasStation-6e8f13b3": {
+        "formatted_address": "R. Apodi, 520 - Tirol, Natal - RN, 59020-130, Brazil",
+        "last_update": "2017-11-14T10:29:45.832360",
+        "name": "Posto S\u007fo Pedro",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7914583,-35.201553",
+        "price": "3.89",
+        "star_votes": {
+            "1": "6",
+            "2": "30",
+            "3": "77",
+            "4": "76",
+            "5": "46"
+        },
+        "zone": "norte"
+    },
+    "GasStation-6f6d5c88": {
+        "formatted_address": "R. Pres. M\u007fdici, 205 - Igap\u007f, Natal - RN, 59106-000, Brazil",
+        "last_update": "2017-11-14T10:29:33.831759",
+        "name": "J M Bezerra & Cia",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7687453,-35.2675385",
+        "price": "3.89",
+        "star_votes": {
+            "1": "31",
+            "2": "36",
+            "3": "71",
+            "4": "48",
+            "5": "68"
+        },
+        "zone": "norte"
+    },
+    "GasStation-700b98b6": {
+        "formatted_address": "R. Dep. Ant\u007fnio Flor\u007fncio de Queiroz, 3046 - Ponta Negra, Natal - RN, 59092-500, Brazil",
+        "last_update": "2017-11-14T10:29:49.223985",
+        "name": "Posto Cirne",
+        "neighborhood": "Nordeste",
+        "position": "-5.890295,-35.180184",
+        "price": "3.89",
+        "star_votes": {
+            "1": "67",
+            "2": "76",
+            "3": "28",
+            "4": "48",
+            "5": "49"
+        },
+        "zone": "norte"
+    },
+    "GasStation-71c0f383": {
+        "formatted_address": "Av. Dr. Jo\u007fo Medeiros Filho, 7570 - Igap\u007f, Natal - RN, 59104-200, Brazil",
+        "last_update": "2017-11-14T10:29:37.213391",
+        "name": "Posto de combustivel Stetic point 01",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.745768,-35.2112745",
+        "price": "3.89",
+        "star_votes": {
+            "1": "11",
+            "2": "13",
+            "3": "77",
+            "4": "98",
+            "5": "46"
+        },
+        "zone": "norte"
+    },
+    "GasStation-71dc58a9": {
+        "formatted_address": "5140 - Av. Prudente de Morais, 5096 - Lagoa Nova, Natal - RN, Brazil",
+        "last_update": "2017-11-14T10:30:24.077572",
+        "name": "Parada",
+        "neighborhood": "Nova Descoberta",
+        "position": "-5.8259713,-35.2160876",
+        "price": "3.89",
+        "star_votes": {
+            "1": "50",
+            "2": "72",
+            "3": "4",
+            "4": "49",
+            "5": "84"
+        },
+        "zone": "sul"
+    },
+    "GasStation-7335bca5": {
+        "formatted_address": "R. S\u007fo Jo\u007fo, 128 - Rocas, Natal - RN, 59074-570, Brazil",
+        "last_update": "2017-11-14T10:29:59.576247",
+        "name": "Posto S\u007fo Jo\u007fo",
+        "neighborhood": "Paju\u007fara",
+        "position": "-5.7415384,-35.238383",
+        "price": "3.89",
+        "star_votes": {
+            "1": "59",
+            "2": "9",
+            "3": "74",
+            "4": "53",
+            "5": "57"
+        },
+        "zone": "norte"
+    },
+    "GasStation-73538e04": {
+        "formatted_address": "Av. Miguel Castro, 799, Natal - RN, 59062-000, Brazil",
+        "last_update": "2017-11-14T10:29:57.329784",
+        "name": "Gaspetro Com\u007frcio Rep e Serv Ltda",
+        "neighborhood": "Nossa Senhora da Apresenta\u007f\u007fo",
+        "position": "-5.8159617,-35.2289885",
+        "price": "3.89",
+        "star_votes": {
+            "1": "45",
+            "2": "69",
+            "3": "1",
+            "4": "35",
+            "5": "92"
+        },
+        "zone": "norte"
+    },
+    "GasStation-7548da02": {
+        "formatted_address": "Av. Coronel Estevam, 1155 - Alecrim, Natal - RN, 59030-000, Brazil",
+        "last_update": "2017-11-14T10:30:02.288188",
+        "name": "Posto S\u007fo Rafael",
+        "neighborhood": "Potengi",
+        "position": "-5.7948764,-35.2147825",
+        "price": "3.89",
+        "star_votes": {
+            "1": "53",
+            "2": "46",
+            "3": "43",
+            "4": "74",
+            "5": "30"
+        },
+        "zone": "norte"
+    },
+    "GasStation-75c88ec7": {
+        "formatted_address": "Av. Engenheiro Roberto Freire, 2622 - Ponta Negra, Natal - RN, 59082-400, Brazil",
+        "last_update": "2017-11-14T10:30:23.194160",
+        "name": "Petrobras",
+        "neighborhood": "Ne\u007fpolis",
+        "position": "-5.8629173,-35.1900897",
+        "price": "3.89",
+        "star_votes": {
+            "1": "27",
+            "2": "93",
+            "3": "80",
+            "4": "70",
+            "5": "7"
+        },
+        "zone": "sul"
+    },
+    "GasStation-770a020a": {
+        "formatted_address": "R. Jaguarari, 5000 - Candel\u007fria, Natal - RN, 59064-500, Brazil",
+        "last_update": "2017-11-14T10:30:06.330374",
+        "name": "Posto S\u007fo Luiz III - Shell",
+        "neighborhood": "Candel\u007fria",
+        "position": "-5.836375,-35.225643",
+        "price": "3.89",
+        "star_votes": {
+            "1": "28",
+            "2": "49",
+            "3": "16",
+            "4": "34",
+            "5": "61"
+        },
+        "zone": "sul"
+    },
+    "GasStation-7763f219": {
+        "formatted_address": "Rua Deputado Cl\u007fv\u007fs Motta, 2114, Rio Grande do Norte, 59064-430, Brazil",
+        "last_update": "2017-11-14T10:30:18.276068",
+        "name": "Posto Vip Car",
+        "neighborhood": "Lagoa Nova",
+        "position": "-5.8288035,-35.2175944",
+        "price": "3.89",
+        "star_votes": {
+            "1": "83",
+            "2": "61",
+            "3": "94",
+            "4": "10",
+            "5": "50"
+        },
+        "zone": "sul"
+    },
+    "GasStation-7765ac6f": {
+        "formatted_address": "Av. Maria Am\u007flia Machado, 600 - Ema\u007fs, Parnamirim - RN, 59149-260, Brazil",
+        "last_update": "2017-11-14T10:30:27.244019",
+        "name": "F P Combustiveis Ltda - Me",
+        "neighborhood": "Pitimbu",
+        "position": "-5.8821911,-35.2491668",
+        "price": "3.89",
+        "star_votes": {
+            "1": "57",
+            "2": "48",
+            "3": "71",
+            "4": "34",
+            "5": "85"
+        },
+        "zone": "sul"
+    },
+    "GasStation-77e6497e": {
+        "formatted_address": "Avenida Abel Cabral, 418 - Nova Parnamirim, Natal - RN, 59150-000, Brazil",
+        "last_update": "2017-11-14T10:30:26.788341",
+        "name": "Auto Posto Dudu",
+        "neighborhood": "Pitimbu",
+        "position": "-5.890659,-35.2481444",
+        "price": "3.89",
+        "star_votes": {
+            "1": "13",
+            "2": "69",
+            "3": "83",
+            "4": "23",
+            "5": "16"
+        },
+        "zone": "sul"
+    },
+    "GasStation-7869d123": {
+        "formatted_address": "Av. Duque de Caxias, 39, Natal - RN, 59012-200, Brazil",
+        "last_update": "2017-11-14T10:30:35.986629",
+        "name": "Posto Ribeira",
+        "neighborhood": "Ribeira",
+        "position": "-5.7756842,-35.2039777",
+        "price": "3.89",
+        "star_votes": {
+            "1": "2",
+            "2": "89",
+            "3": "66",
+            "4": "60",
+            "5": "45"
+        },
+        "zone": "leste"
+    },
+    "GasStation-7c4d99f3": {
+        "formatted_address": "Av. Bacharel Tomaz Landim, 1340 - Nova Zel\u007fndia, Natal - RN, 59104-228, Brazil",
+        "last_update": "2017-11-14T10:29:38.124526",
+        "name": "Posto Ipiranga - Posto S\u007fo Tom\u007f 1",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7643172,-35.2851683",
+        "price": "3.89",
+        "star_votes": {
+            "1": "79",
+            "2": "52",
+            "3": "68",
+            "4": "61",
+            "5": "66"
+        },
+        "zone": "norte"
+    },
+    "GasStation-7c9908ed": {
+        "formatted_address": "Av. Maranguape - Nossa Sra. da Apresenta\u007f\u007fo, Natal - RN, Brazil",
+        "last_update": "2017-11-14T10:29:54.852275",
+        "name": "Posto Brasilia",
+        "neighborhood": "Nossa Senhora da Apresenta\u007f\u007fo",
+        "position": "-5.749597,-35.2713318",
+        "price": "3.89",
+        "star_votes": {
+            "1": "51",
+            "2": "4",
+            "3": "81",
+            "4": "77",
+            "5": "15"
+        },
+        "zone": "norte"
+    },
+    "GasStation-7dc3611b": {
+        "formatted_address": "R. Apodi, 349 - Cidade Alta, Natal - RN, 59020-130, Brazil",
+        "last_update": "2017-11-14T10:30:31.707303",
+        "name": "Petrobras",
+        "neighborhood": "Areia Preta",
+        "position": "-5.789969,-35.204277",
+        "price": "3.89",
+        "star_votes": {
+            "1": "14",
+            "2": "45",
+            "3": "100",
+            "4": "38",
+            "5": "94"
+        },
+        "zone": "leste"
+    },
+    "GasStation-7f234df7": {
+        "formatted_address": "R. Gen. Gustavo Cordeiro de Farias, 383 - Petr\u007fpolis, Natal - RN, 59000-000, Brazil",
+        "last_update": "2017-11-14T10:30:35.324745",
+        "name": "Bl Revendedora",
+        "neighborhood": "Petr\u007fpolis",
+        "position": "-5.7794376,-35.199979",
+        "price": "3.89",
+        "star_votes": {
+            "1": "63",
+            "2": "74",
+            "3": "7",
+            "4": "4",
+            "5": "65"
+        },
+        "zone": "leste"
+    },
+    "GasStation-7f5763e7": {
+        "formatted_address": "Av. Miguel Castro, 1353-1517 - Lagoa Nova, Natal - RN, Brazil",
+        "last_update": "2017-11-14T10:30:18.722296",
+        "name": "POSTO POTIGUARES - REDE JM",
+        "neighborhood": "Lagoa Nova",
+        "position": "-5.8174056,-35.2244116",
+        "price": "3.89",
+        "star_votes": {
+            "1": "9",
+            "2": "49",
+            "3": "87",
+            "4": "27",
+            "5": "12"
+        },
+        "zone": "sul"
+    },
+    "GasStation-802b61c4": {
+        "formatted_address": "Marginal Prudente de Morais, 5050 - Lagoa Nova, Natal - RN, 59065-305, Brazil",
+        "last_update": "2017-11-14T10:29:57.997889",
+        "name": "Posto 30 de Setembro - Posto Lagoa Nova",
+        "neighborhood": "Nossa Senhora da Apresenta\u007f\u007fo",
+        "position": "-5.8254918,-35.2160919",
+        "price": "3.89",
+        "star_votes": {
+            "1": "29",
+            "2": "15",
+            "3": "76",
+            "4": "76",
+            "5": "56"
+        },
+        "zone": "norte"
+    },
+    "GasStation-807e4411": {
+        "formatted_address": "Av. Bumba-Meu-Boi, 100 - Lagoa Azul, Natal - RN, 59290-000, Brazil",
+        "last_update": "2017-11-14T10:29:43.336121",
+        "name": "Posto Ipiranga ZN",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7354398,-35.2521669",
+        "price": "3.89",
+        "star_votes": {
+            "1": "1",
+            "2": "52",
+            "3": "69",
+            "4": "46",
+            "5": "86"
+        },
+        "zone": "norte"
+    },
+    "GasStation-81048a1e": {
+        "formatted_address": "Av. Sen. Salgado Filho, 2580 - Candel\u007fria, RN, 59063-000, Brazil",
+        "last_update": "2017-11-14T10:30:05.882036",
+        "name": "Petrobras",
+        "neighborhood": "Candel\u007fria",
+        "position": "-5.8106008,-35.2045803",
+        "price": "3.89",
+        "star_votes": {
+            "1": "94",
+            "2": "63",
+            "3": "68",
+            "4": "65",
+            "5": "8"
+        },
+        "zone": "sul"
+    },
+    "GasStation-8124ecf8": {
+        "formatted_address": "Rua Tijuana, 329, Natal - RN, Brazil",
+        "last_update": "2017-11-14T10:29:55.748100",
+        "name": "Cadinho Chou De Precos",
+        "neighborhood": "Nossa Senhora da Apresenta\u007f\u007fo",
+        "position": "-5.7309149,-35.26924",
+        "price": "3.89",
+        "star_votes": {
+            "1": "37",
+            "2": "99",
+            "3": "97",
+            "4": "3",
+            "5": "11"
+        },
+        "zone": "norte"
+    },
+    "GasStation-816493c7": {
+        "formatted_address": "RN-063 - Ponta Negra, Natal - RN, Brazil",
+        "last_update": "2017-11-14T10:30:28.350526",
+        "name": "Posto Pium Ltda",
+        "neighborhood": "Ponta Negra",
+        "position": "-5.8957604,-35.1779022",
+        "price": "3.89",
+        "star_votes": {
+            "1": "7",
+            "2": "90",
+            "3": "76",
+            "4": "58",
+            "5": "80"
+        },
+        "zone": "sul"
+    },
+    "GasStation-81a87924": {
+        "formatted_address": "Av. Dr. Jo\u007fo Medeiros Filho, 7570 - Redinha, Natal - RN, 59122-200, Brazil",
+        "last_update": "2017-11-14T10:30:33.275460",
+        "name": "Ale",
+        "neighborhood": "Areia Preta",
+        "position": "-5.7458465,-35.2114636",
+        "price": "3.89",
+        "star_votes": {
+            "1": "50",
+            "2": "83",
+            "3": "58",
+            "4": "5",
+            "5": "93"
+        },
+        "zone": "leste"
+    },
+    "GasStation-839d0772": {
+        "formatted_address": "R. Ap\u007fstolo Tom\u007f, n90, Natal - RN, Brazil",
+        "last_update": "2017-11-14T10:29:56.198408",
+        "name": "ADE Funilaria e Pintura,Restaura\u007f\u007fo com fibra de vidro",
+        "neighborhood": "Nossa Senhora da Apresenta\u007f\u007fo",
+        "position": "-5.7225377,-35.2627169",
+        "price": "3.89",
+        "star_votes": {
+            "1": "7",
+            "2": "37",
+            "3": "98",
+            "4": "4",
+            "5": "87"
+        },
+        "zone": "norte"
+    },
+    "GasStation-83c13673": {
+        "formatted_address": "Av. Hermes da Fonseca, 755 - Tirol, Natal - RN, 59014-165, Brazil",
+        "last_update": "2017-11-14T10:29:49.462250",
+        "name": "Posto Natal II",
+        "neighborhood": "Nordeste",
+        "position": "-5.7915725,-35.1970765",
+        "price": "3.89",
+        "star_votes": {
+            "1": "80",
+            "2": "24",
+            "3": "56",
+            "4": "100",
+            "5": "84"
+        },
+        "zone": "norte"
+    },
+    "GasStation-855e1ec5": {
+        "formatted_address": "Av. Engenheiro Roberto Freire, 1608 - Capim Macio, Natal - RN, 59080-400, Brazil",
+        "last_update": "2017-11-14T10:30:11.081779",
+        "name": "Sousa Ara\u007fjo Derivados de Petroleo",
+        "neighborhood": "Capim Macio",
+        "position": "-5.8774294,-35.1767721",
+        "price": "3.89",
+        "star_votes": {
+            "1": "11",
+            "2": "88",
+            "3": "64",
+            "4": "79",
+            "5": "39"
+        },
+        "zone": "sul"
+    },
+    "GasStation-865d121a": {
+        "formatted_address": "Rua Dr. Lu\u007fz Dutra, 1155 - Alecrim, Natal - RN, 59037-510, Brazil",
+        "last_update": "2017-11-14T10:30:32.367875",
+        "name": "Posto Ale - Posto S\u007fo Rafael",
+        "neighborhood": "Areia Preta",
+        "position": "-5.7948861,-35.2148027",
+        "price": "3.89",
+        "star_votes": {
+            "1": "48",
+            "2": "57",
+            "3": "11",
+            "4": "61",
+            "5": "100"
+        },
+        "zone": "leste"
+    },
+    "GasStation-86948e6c": {
+        "formatted_address": "Av. Rui Barbosa, 1295 - Lagoa Nova, Natal - RN, 59056-300, Brazil",
+        "last_update": "2017-11-14T10:29:52.369994",
+        "name": "Posto Ale - Posto Rui Barbosa",
+        "neighborhood": "Nordeste",
+        "position": "-5.8209992,-35.2047488",
+        "price": "3.89",
+        "star_votes": {
+            "1": "97",
+            "2": "40",
+            "3": "59",
+            "4": "43",
+            "5": "23"
+        },
+        "zone": "norte"
+    },
+    "GasStation-86ac8cdf": {
+        "formatted_address": "Av. Bernardo Vieira, 3580 - Quintas, Natal - RN, 59054-590, Brazil",
+        "last_update": "2017-11-14T10:30:03.623306",
+        "name": "Monte Belo ECOlavagem",
+        "neighborhood": "Quintas",
+        "position": "-5.811808,-35.2082617",
+        "price": "3.89",
+        "star_votes": {
+            "1": "28",
+            "2": "59",
+            "3": "43",
+            "4": "28",
+            "5": "9"
+        },
+        "zone": "norte"
+    },
+    "GasStation-87213d9f": {
+        "formatted_address": "R. Morro da Boa Vista, 1447-1451 - Potengi, Natal - RN, Brazil",
+        "last_update": "2017-11-14T10:30:01.606770",
+        "name": "Oficina Assis De Luciano",
+        "neighborhood": "Potengi",
+        "position": "-5.7458327,-35.258938",
+        "price": "3.89",
+        "star_votes": {
+            "1": "22",
+            "2": "82",
+            "3": "91",
+            "4": "30",
+            "5": "90"
+        },
+        "zone": "norte"
+    },
+    "GasStation-8a959df6": {
+        "formatted_address": "Av. Fronteiras, 1000 - Ns. da Apresentacao, Natal - RN, 59129-200, Brazil",
+        "last_update": "2017-11-14T10:30:00.257018",
+        "name": "ALE",
+        "neighborhood": "Paju\u007fara",
+        "position": "-5.7579979,-35.2638898",
+        "price": "3.89",
+        "star_votes": {
+            "1": "91",
+            "2": "54",
+            "3": "77",
+            "4": "12",
+            "5": "8"
+        },
+        "zone": "norte"
+    },
+    "GasStation-8aec2ff3": {
+        "formatted_address": "Cel. Jos\u007f Franco Ribeiro, S/N - Nossa Sra. da Apresenta\u007f\u007fo, Natal - RN, 59290-000, Brazil",
+        "last_update": "2017-11-14T10:29:54.388206",
+        "name": "Posto Novo Horizonte 2- Posto BR",
+        "neighborhood": "Nossa Senhora da Apresenta\u007f\u007fo",
+        "position": "-5.762727,-35.2874463",
+        "price": "3.89",
+        "star_votes": {
+            "1": "60",
+            "2": "10",
+            "3": "4",
+            "4": "16",
+            "5": "68"
+        },
+        "zone": "norte"
+    },
+    "GasStation-8b793e13": {
+        "formatted_address": "Avenida Votuporanga, 403 - Potengi, Natal - RN, 59129-430, Brazil",
+        "last_update": "2017-11-14T10:30:02.057396",
+        "name": "Posto Ipiranga",
+        "neighborhood": "Potengi",
+        "position": "-5.7354248,-35.2521791",
+        "price": "3.89",
+        "star_votes": {
+            "1": "33",
+            "2": "86",
+            "3": "3",
+            "4": "19",
+            "5": "83"
+        },
+        "zone": "norte"
+    },
+    "GasStation-8d952028": {
+        "formatted_address": "Rua General Gustavo Cordeiro de Faria, 383 - Petr\u007fpolis, Natal - RN, 59012-570, Brazil",
+        "last_update": "2017-11-14T10:30:34.190348",
+        "name": "Petrobras",
+        "neighborhood": "Cidade Alta",
+        "position": "-5.7804395,-35.1986728",
+        "price": "3.89",
+        "star_votes": {
+            "1": "44",
+            "2": "57",
+            "3": "62",
+            "4": "26",
+            "5": "43"
+        },
+        "zone": "leste"
+    },
+    "GasStation-8dc910e7": {
+        "formatted_address": "Av. Prudente de Morais, 4476 - Lagoa Nova, Natal - RN, 59063-200, Brazil",
+        "last_update": "2017-11-14T10:30:17.611583",
+        "name": "LUIZ FLOR E FILHOS LTDA",
+        "neighborhood": "Lagoa Nova",
+        "position": "-5.8145467,-35.2111988",
+        "price": "3.89",
+        "star_votes": {
+            "1": "40",
+            "2": "40",
+            "3": "86",
+            "4": "18",
+            "5": "47"
+        },
+        "zone": "sul"
+    },
+    "GasStation-91939ad3": {
+        "formatted_address": "Av. Dr. Jo\u007fo Medeiros Filho, 3200 - Pajussara, Natal - RN, 59104-200, Brazil",
+        "last_update": "2017-11-14T10:30:01.835611",
+        "name": "Comercial Sobral",
+        "neighborhood": "Potengi",
+        "position": "-5.7591925,-35.2467722",
+        "price": "3.89",
+        "star_votes": {
+            "1": "69",
+            "2": "64",
+            "3": "64",
+            "4": "83",
+            "5": "23"
+        },
+        "zone": "norte"
+    },
+    "GasStation-91f66d80": {
+        "formatted_address": "Av. Interventor Mario C\u007fmara, 2333 - Nossa Sra. de Nazar\u007f, Natal - RN, Brazil",
+        "last_update": "2017-11-14T10:29:57.106999",
+        "name": "Posto Pasauto",
+        "neighborhood": "Nossa Senhora da Apresenta\u007f\u007fo",
+        "position": "-5.8175004,-35.2282068",
+        "price": "3.89",
+        "star_votes": {
+            "1": "84",
+            "2": "96",
+            "3": "70",
+            "4": "25",
+            "5": "54"
+        },
+        "zone": "norte"
+    },
+    "GasStation-939240d5": {
+        "formatted_address": "Av. Maria Lacerda Montenegro, 210 - Centro, Natal - RN, 59150-000, Brazil",
+        "last_update": "2017-11-14T10:30:24.985869",
+        "name": "Si Comercial Derivados de Petroleo",
+        "neighborhood": "Pitimbu",
+        "position": "-5.8783518,-35.2170208",
+        "price": "3.89",
+        "star_votes": {
+            "1": "26",
+            "2": "29",
+            "3": "66",
+            "4": "81",
+            "5": "74"
+        },
+        "zone": "sul"
+    },
+    "GasStation-946b943f": {
+        "formatted_address": "Av. Ayrton Senna, 2109 - Nova Parnamirim, RN, 59089-000, Brazil",
+        "last_update": "2017-11-14T10:29:49.920844",
+        "name": "Auto Posto Ayrton Senna Ltda",
+        "neighborhood": "Nordeste",
+        "position": "-5.8890856,-35.1996051",
+        "price": "3.89",
+        "star_votes": {
+            "1": "79",
+            "2": "59",
+            "3": "8",
+            "4": "61",
+            "5": "80"
+        },
+        "zone": "norte"
+    },
+    "GasStation-97187dd7": {
+        "formatted_address": "R. Caf\u007f Filho, 820 - Praia do Meio, Natal - RN, 59010-000, Brazil",
+        "last_update": "2017-11-14T10:30:42.500098",
+        "name": "Cdp Comercial Derivados de Petroleo",
+        "neighborhood": "Guarapes",
+        "position": "-5.8396038,-35.2777071",
+        "price": "3.89",
+        "star_votes": {
+            "1": "19",
+            "2": "88",
+            "3": "40",
+            "4": "88",
+            "5": "69"
+        },
+        "zone": "oeste"
+    },
+    "GasStation-992f4f9a": {
+        "formatted_address": "Av. Abel Cabral, 418 - Nova Parnamirim, Parnamirim - RN, 59151-250, Brazil",
+        "last_update": "2017-11-14T10:30:12.891603",
+        "name": "Auto Posto Dudu Ltda",
+        "neighborhood": "Capim Macio",
+        "position": "-5.8744412,-35.2166929",
+        "price": "3.89",
+        "star_votes": {
+            "1": "33",
+            "2": "83",
+            "3": "97",
+            "4": "17",
+            "5": "48"
+        },
+        "zone": "sul"
+    },
+    "GasStation-9936108c": {
+        "formatted_address": "Av. Bernardo Vieira, 1906 - Dix-Sept Rosado, Natal - RN, 59054-000, Brazil",
+        "last_update": "2017-11-14T10:30:40.905225",
+        "name": "Posto Express - Bandeira BR",
+        "neighborhood": "Dix-Sept Rosado",
+        "position": "-5.8066718,-35.2224453",
+        "price": "3.89",
+        "star_votes": {
+            "1": "100",
+            "2": "12",
+            "3": "91",
+            "4": "69",
+            "5": "21"
+        },
+        "zone": "oeste"
+    },
+    "GasStation-9ac26700": {
+        "formatted_address": "R. Santa Cristina, 58-80 - Felipe Camar\u007fo, Natal - RN, Brazil",
+        "last_update": "2017-11-14T10:30:41.358472",
+        "name": "Quilometro 6 Posto De Gazulina",
+        "neighborhood": "Felipe Camar\u007fo",
+        "position": "-5.8240465,-35.253304",
+        "price": "3.89",
+        "star_votes": {
+            "1": "81",
+            "2": "84",
+            "3": "17",
+            "4": "93",
+            "5": "76"
+        },
+        "zone": "oeste"
+    },
+    "GasStation-9af9497c": {
+        "formatted_address": "Av. Bernardo Vieira, 1436 - Lagoa Seca, Natal - RN, 59000-000, Brazil",
+        "last_update": "2017-11-14T10:30:17.831808",
+        "name": "Abrantes & Abrantes",
+        "neighborhood": "Lagoa Nova",
+        "position": "-5.8108194,-35.2102768",
+        "price": "3.89",
+        "star_votes": {
+            "1": "74",
+            "2": "51",
+            "3": "50",
+            "4": "18",
+            "5": "52"
+        },
+        "zone": "sul"
+    },
+    "GasStation-9bdb3c2a": {
+        "formatted_address": "R. Bela Vista, 100 - Lagoa Azul, Natal - RN, 59129-696, Brazil",
+        "last_update": "2017-11-14T10:29:40.408459",
+        "name": "Posto N N - Nova Natal",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7408437,-35.2627868",
+        "price": "3.89",
+        "star_votes": {
+            "1": "90",
+            "2": "21",
+            "3": "32",
+            "4": "6",
+            "5": "54"
+        },
+        "zone": "norte"
+    },
+    "GasStation-9c6c67b4": {
+        "formatted_address": "Av. Bernardo Vieira, 1563 - Alecrim, RN, 59041-002, Brazil",
+        "last_update": "2017-11-14T10:30:30.113447",
+        "name": "Posto Santa Maria",
+        "neighborhood": "Alecrim",
+        "position": "-5.8063177,-35.2228919",
+        "price": "3.89",
+        "star_votes": {
+            "1": "52",
+            "2": "11",
+            "3": "16",
+            "4": "10",
+            "5": "27"
+        },
+        "zone": "leste"
+    },
+    "GasStation-9e8db023": {
+        "formatted_address": "Av. Industrial Jo\u007fo Francisco da Mota, 2014 - Felipe Camar\u007fo, Natal - RN, 59072-470, Brazil",
+        "last_update": "2017-11-14T10:30:41.589656",
+        "name": "Posto BR - Guarapes",
+        "neighborhood": "Felipe Camar\u007fo",
+        "position": "-5.820494,-35.2518741",
+        "price": "3.89",
+        "star_votes": {
+            "1": "56",
+            "2": "34",
+            "3": "97",
+            "4": "20",
+            "5": "26"
+        },
+        "zone": "oeste"
+    },
+    "GasStation-9e9fd58b": {
+        "formatted_address": "Av. Duque de Caxias, 50, Natal - RN, 59012-200, Brazil",
+        "last_update": "2017-11-14T10:30:32.818065",
+        "name": "Luso Revendedora de Combust\u007fvel",
+        "neighborhood": "Areia Preta",
+        "position": "-5.7758997,-35.2044441",
+        "price": "3.89",
+        "star_votes": {
+            "1": "46",
+            "2": "62",
+            "3": "68",
+            "4": "65",
+            "5": "93"
+        },
+        "zone": "leste"
+    },
+    "GasStation-9eb42c99": {
+        "formatted_address": "rua Pst Eust\u007fquio Lopes da Silva 941, Natal - RN, 59062-140, Brazil",
+        "last_update": "2017-11-14T10:29:44.242795",
+        "name": "Posto Ipiranga - Cooptax Coop Dos Prop De Taxi De Natal",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.8160512,-35.2328333",
+        "price": "3.89",
+        "star_votes": {
+            "1": "80",
+            "2": "61",
+            "3": "17",
+            "4": "36",
+            "5": "60"
+        },
+        "zone": "norte"
+    },
+    "GasStation-9f315e95": {
+        "formatted_address": "1254 - R. Raimundo Chaves, 1196 - Lagoa Nova, Natal - RN, Brazil",
+        "last_update": "2017-11-14T10:30:16.722987",
+        "name": "PETROBR\u007fS port\u007fo 2",
+        "neighborhood": "Lagoa Nova",
+        "position": "-5.8272649,-35.2279657",
+        "price": "3.89",
+        "star_votes": {
+            "1": "85",
+            "2": "100",
+            "3": "79",
+            "4": "34",
+            "5": "91"
+        },
+        "zone": "sul"
+    },
+    "GasStation-9f5c2f37": {
+        "formatted_address": "Av. das Fronteiras - Potengi, Natal - RN, Brazil",
+        "last_update": "2017-11-14T10:29:37.899184",
+        "name": "Posto Interlagos",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7579654,-35.2638594",
+        "price": "3.89",
+        "star_votes": {
+            "1": "12",
+            "2": "84",
+            "3": "36",
+            "4": "56",
+            "5": "98"
+        },
+        "zone": "norte"
+    },
+    "GasStation-a0ad613d": {
+        "formatted_address": "R. Ant\u007fnio Freire de Lemos, 846 - Planalto, Natal - RN, 79073-180, Brazil",
+        "last_update": "2017-11-14T10:30:27.468203",
+        "name": "Posto Julia",
+        "neighborhood": "Planalto",
+        "position": "-5.8414814,-35.2472748",
+        "price": "3.89",
+        "star_votes": {
+            "1": "51",
+            "2": "22",
+            "3": "85",
+            "4": "98",
+            "5": "27"
+        },
+        "zone": "sul"
+    },
+    "GasStation-a0c710e1": {
+        "formatted_address": "Av. Sen. Dinarte Mariz, 1550 - M\u007fe Lu\u007fza, Natal - RN, 59014-000, Brazil",
+        "last_update": "2017-11-14T10:29:48.323363",
+        "name": "Station Shell Station Via Costeira",
+        "neighborhood": "Nordeste",
+        "position": "-5.8013244,-35.1827499",
+        "price": "3.89",
+        "star_votes": {
+            "1": "8",
+            "2": "93",
+            "3": "64",
+            "4": "17",
+            "5": "49"
+        },
+        "zone": "norte"
+    },
+    "GasStation-a2f633fc": {
+        "formatted_address": "555 - Av. Hermes da Fonseca, 857 - Tirol, Natal - RN, 59014-002, Brazil",
+        "last_update": "2017-11-14T10:29:49.698117",
+        "name": "Posto Cirne",
+        "neighborhood": "Nordeste",
+        "position": "-5.793538,-35.197773",
+        "price": "3.89",
+        "star_votes": {
+            "1": "92",
+            "2": "7",
+            "3": "32",
+            "4": "49",
+            "5": "38"
+        },
+        "zone": "norte"
+    },
+    "GasStation-a3bef2d6": {
+        "formatted_address": "Av. Sen. Salgado Filho, 2102 - Lagoa Nova, Natal - RN, 59056-000, Brazil",
+        "last_update": "2017-11-14T10:30:15.817143",
+        "name": "Jvc Comercial",
+        "neighborhood": "Lagoa Nova",
+        "position": "-5.8150065,-35.2062174",
+        "price": "3.89",
+        "star_votes": {
+            "1": "63",
+            "2": "11",
+            "3": "73",
+            "4": "50",
+            "5": "54"
+        },
+        "zone": "sul"
+    },
+    "GasStation-a3eae707": {
+        "formatted_address": "Av. Dr. Jo\u007fo Medeiros Filho, 6181 - Pajussara, Natal - RN, 59122-770, Brazil",
+        "last_update": "2017-11-14T10:29:58.447255",
+        "name": "JOAO HENRIQUE GODEIRO",
+        "neighborhood": "Nossa Senhora da Apresenta\u007f\u007fo",
+        "position": "-5.7453316,-35.2140325",
+        "price": "3.89",
+        "star_votes": {
+            "1": "65",
+            "2": "10",
+            "3": "39",
+            "4": "56",
+            "5": "24"
+        },
+        "zone": "norte"
+    },
+    "GasStation-a5216263": {
+        "formatted_address": "Av. Ayrton Senna, 1652 - Ne\u007fpolis, Natal - RN, 59086-105, Brazil",
+        "last_update": "2017-11-14T10:30:21.854818",
+        "name": "Pinheiro E Filho Com Combust Deriv Petr",
+        "neighborhood": "Ne\u007fpolis",
+        "position": "-5.8907307,-35.1990944",
+        "price": "3.89",
+        "star_votes": {
+            "1": "12",
+            "2": "68",
+            "3": "53",
+            "4": "91",
+            "5": "21"
+        },
+        "zone": "sul"
+    },
+    "GasStation-a64345d1": {
+        "formatted_address": "R. Dr. Mario Neg\u007fcio, 2298 - Quintas, Natal - RN, 59040-000, Brazil",
+        "last_update": "2017-11-14T10:30:03.173891",
+        "name": "Sociedade Dois Irmaos",
+        "neighborhood": "Quintas",
+        "position": "-5.7981039,-35.2364169",
+        "price": "3.89",
+        "star_votes": {
+            "1": "80",
+            "2": "86",
+            "3": "23",
+            "4": "16",
+            "5": "79"
+        },
+        "zone": "norte"
+    },
+    "GasStation-a725131b": {
+        "formatted_address": "Av. Prudente de Morais, 2021 - Lagoa Nova, RN, 59022-400, Brazil",
+        "last_update": "2017-11-14T10:30:20.065144",
+        "name": "Petrobras",
+        "neighborhood": "Lagoa Nova",
+        "position": "-5.7978055,-35.204726",
+        "price": "3.89",
+        "star_votes": {
+            "1": "55",
+            "2": "23",
+            "3": "80",
+            "4": "58",
+            "5": "17"
+        },
+        "zone": "sul"
+    },
+    "GasStation-a73c1bc6": {
+        "formatted_address": "BR-101, 10 - Igap\u007f, Natal - RN, Brazil",
+        "last_update": "2017-11-14T10:29:36.772978",
+        "name": "Posto Ipiranga",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7613213,-35.2875629",
+        "price": "3.89",
+        "star_votes": {
+            "1": "89",
+            "2": "54",
+            "3": "62",
+            "4": "38",
+            "5": "79"
+        },
+        "zone": "norte"
+    },
+    "GasStation-a7f47825": {
+        "formatted_address": "Av. Bernardo Vieira, 2517 - Alecrim, Natal - RN, 59032-445, Brazil",
+        "last_update": "2017-11-14T10:30:03.860487",
+        "name": "Posto S\u007fo Luiz V - Bandeira Shell",
+        "neighborhood": "Quintas",
+        "position": "-5.8081298,-35.2172295",
+        "price": "3.89",
+        "star_votes": {
+            "1": "100",
+            "2": "75",
+            "3": "43",
+            "4": "73",
+            "5": "4"
+        },
+        "zone": "norte"
+    },
+    "GasStation-a969e8c1": {
+        "formatted_address": "R. Peixe Boi, 425 - Planalto, Natal - RN, 59068-150, Brazil",
+        "last_update": "2017-11-14T10:30:27.909542",
+        "name": "Sm Comercial de Dericados de Petroleo",
+        "neighborhood": "Planalto",
+        "position": "-5.8582525,-35.2522956",
+        "price": "3.89",
+        "star_votes": {
+            "1": "19",
+            "2": "57",
+            "3": "12",
+            "4": "63",
+            "5": "88"
+        },
+        "zone": "sul"
+    },
+    "GasStation-a9bb04be": {
+        "formatted_address": "Av. D\u007fo Silveira, 4416 - Pitimb\u007f, Natal - RN, 59066-400, Brazil",
+        "last_update": "2017-11-14T10:30:25.439886",
+        "name": "Posto Pinheiro Borges - BZ",
+        "neighborhood": "Pitimbu",
+        "position": "-5.864189,-35.216523",
+        "price": "3.89",
+        "star_votes": {
+            "1": "85",
+            "2": "53",
+            "3": "89",
+            "4": "32",
+            "5": "41"
+        },
+        "zone": "sul"
+    },
+    "GasStation-a9dd1c02": {
+        "formatted_address": "Av. Capit\u007fo-Mor Gouveia, 3949 - Bom Pastor, Natal - RN, 59054-170, Brazil",
+        "last_update": "2017-11-14T10:29:44.461959",
+        "name": "Posto Campo Belo",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.8158361,-35.2486663",
+        "price": "3.89",
+        "star_votes": {
+            "1": "99",
+            "2": "8",
+            "3": "2",
+            "4": "90",
+            "5": "52"
+        },
+        "zone": "norte"
+    },
+    "GasStation-aaa4d72f": {
+        "formatted_address": "R. Ant\u007fnio Freire de Lemos, 846 - Planalto, Natal - RN, 59073-180, Brazil",
+        "last_update": "2017-11-14T10:30:27.690955",
+        "name": "Posto Sabugi",
+        "neighborhood": "Planalto",
+        "position": "-5.8445366,-35.244115",
+        "price": "3.89",
+        "star_votes": {
+            "1": "31",
+            "2": "54",
+            "3": "78",
+            "4": "68",
+            "5": "73"
+        },
+        "zone": "sul"
+    },
+    "GasStation-aaad6886": {
+        "formatted_address": "Av. Sen. Salgado Filho, 1865 - Candel\u007fria, Natal - RN, 59064-741, Brazil",
+        "last_update": "2017-11-14T10:30:08.820251",
+        "name": "Shell",
+        "neighborhood": "Candel\u007fria",
+        "position": "-5.8221804,-35.2087567",
+        "price": "3.89",
+        "star_votes": {
+            "1": "41",
+            "2": "35",
+            "3": "75",
+            "4": "61",
+            "5": "12"
+        },
+        "zone": "sul"
+    },
+    "GasStation-ab3e4010": {
+        "formatted_address": "Av. Rio Branco, 300 - Ribeira, Natal - RN, 59012-000, Brazil",
+        "last_update": "2017-11-14T10:30:36.208299",
+        "name": "Enaldo Silva de Ara\u007fjo",
+        "neighborhood": "Ribeira",
+        "position": "-5.7806021,-35.204279",
+        "price": "3.89",
+        "star_votes": {
+            "1": "51",
+            "2": "19",
+            "3": "41",
+            "4": "36",
+            "5": "60"
+        },
+        "zone": "leste"
+    },
+    "GasStation-abbae939": {
+        "formatted_address": "R. Jaguarari, 5000 - CANDELARIA I, Natal - RN, 59064-400, Brazil",
+        "last_update": "2017-11-14T10:30:07.218150",
+        "name": "LUIZ FLOR E FILHOS LTDA",
+        "neighborhood": "Candel\u007fria",
+        "position": "-5.8364184,-35.2253428",
+        "price": "3.89",
+        "star_votes": {
+            "1": "4",
+            "2": "89",
+            "3": "86",
+            "4": "21",
+            "5": "18"
+        },
+        "zone": "sul"
+    },
+    "GasStation-ac161874": {
+        "formatted_address": "Av Felizardo Firmino Moura 250 A, Natal - RN, 59042-200, Brazil",
+        "last_update": "2017-11-14T10:29:42.661229",
+        "name": "Marinho E Alvares Ltda",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.797108,-35.238278",
+        "price": "3.89",
+        "star_votes": {
+            "1": "49",
+            "2": "70",
+            "3": "47",
+            "4": "37",
+            "5": "22"
+        },
+        "zone": "norte"
+    },
+    "GasStation-ac609624": {
+        "formatted_address": "Av. Bacharel Tomaz Landim, 3540 - Igap\u007f, Natal - RN, 59104-000, Brazil",
+        "last_update": "2017-11-14T10:29:32.842875",
+        "name": "Posto Para\u007fso",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7688021,-35.2717322",
+        "price": "3.89",
+        "star_votes": {
+            "1": "29",
+            "2": "74",
+            "3": "64",
+            "4": "82",
+            "5": "100"
+        },
+        "zone": "norte"
+    },
+    "GasStation-ad7340d4": {
+        "formatted_address": "Av. Duque de Caxias, 39 - Ribeira, Natal - RN, 59012-200, Brazil",
+        "last_update": "2017-11-14T10:30:00.029417",
+        "name": "Petrobras",
+        "neighborhood": "Paju\u007fara",
+        "position": "-5.7756301,-35.20402",
+        "price": "3.89",
+        "star_votes": {
+            "1": "6",
+            "2": "33",
+            "3": "95",
+            "4": "2",
+            "5": "58"
+        },
+        "zone": "norte"
+    },
+    "GasStation-adaf4ce1": {
+        "formatted_address": "Av. Benedito Santana, 13, S\u007fo Gon\u007falo do Amarante - RN, 59290-000, Brazil",
+        "last_update": "2017-11-14T10:29:37.432700",
+        "name": "SI Comercial Derivados de Petr\u007fleo Ltda",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7718807,-35.269394",
+        "price": "3.89",
+        "star_votes": {
+            "1": "40",
+            "2": "41",
+            "3": "63",
+            "4": "81",
+            "5": "94"
+        },
+        "zone": "norte"
+    },
+    "GasStation-ade37bc3": {
+        "formatted_address": "Av. Dr. Jo\u007fo Medeiros Filho, 3960 - Redinha, Natal - RN, 59104-200, Brazil",
+        "last_update": "2017-11-14T10:29:39.746624",
+        "name": "Posto Alvorada",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7526976,-35.2354612",
+        "price": "3.89",
+        "star_votes": {
+            "1": "51",
+            "2": "70",
+            "3": "32",
+            "4": "40",
+            "5": "54"
+        },
+        "zone": "norte"
+    },
+    "GasStation-ae5aef7d": {
+        "formatted_address": "Avenida Airtom Sena, 1078 - Ne\u007fpolis, Natal - RN, 59086-100, Brazil",
+        "last_update": "2017-11-14T10:30:10.176912",
+        "name": "Sousa Ara\u007fjo Derivados de Petroleo",
+        "neighborhood": "Capim Macio",
+        "position": "-5.8599138,-35.2056531",
+        "price": "3.89",
+        "star_votes": {
+            "1": "89",
+            "2": "4",
+            "3": "6",
+            "4": "41",
+            "5": "16"
+        },
+        "zone": "sul"
+    },
+    "GasStation-af2a2e2f": {
+        "formatted_address": "Av. Governador Tarc\u007fsio de Vasconcelos Maia, 2160 - Paju\u007fara, RN, Brazil",
+        "last_update": "2017-11-14T10:29:59.807682",
+        "name": "Posto Alesat",
+        "neighborhood": "Paju\u007fara",
+        "position": "-5.8488946,-35.2118012",
+        "price": "3.89",
+        "star_votes": {
+            "1": "97",
+            "2": "91",
+            "3": "86",
+            "4": "64",
+            "5": "60"
+        },
+        "zone": "norte"
+    },
+    "GasStation-af63b344": {
+        "formatted_address": "Av. Miguel Castro, 799, Natal - RN, 59075-740, Brazil",
+        "last_update": "2017-11-14T10:29:56.657620",
+        "name": "Auto Posto Avenida",
+        "neighborhood": "Nossa Senhora da Apresenta\u007f\u007fo",
+        "position": "-5.813971,-35.2347428",
+        "price": "3.89",
+        "star_votes": {
+            "1": "99",
+            "2": "97",
+            "3": "46",
+            "4": "89",
+            "5": "42"
+        },
+        "zone": "norte"
+    },
+    "GasStation-b158eb31": {
+        "formatted_address": "R. Francisco Gurgel, 33 - Ponta Negra, Natal - RN, 59090-050, Brazil",
+        "last_update": "2017-11-14T10:29:51.701426",
+        "name": "natal",
+        "neighborhood": "Nordeste",
+        "position": "-5.8725859,-35.1782897",
+        "price": "3.89",
+        "star_votes": {
+            "1": "99",
+            "2": "1",
+            "3": "43",
+            "4": "46",
+            "5": "5"
+        },
+        "zone": "norte"
+    },
+    "GasStation-b1d9f951": {
+        "formatted_address": "Av. das Fronteiras, 2577 - N. S. da Apresenta\u007f\u007fo, Natal - RN, 59108-470, Brazil",
+        "last_update": "2017-11-14T10:29:55.520311",
+        "name": "Distribuidora de Combustiveis Fronteiras",
+        "neighborhood": "Nossa Senhora da Apresenta\u007f\u007fo",
+        "position": "-5.7650287,-35.2659621",
+        "price": "3.89",
+        "star_votes": {
+            "1": "61",
+            "2": "24",
+            "3": "52",
+            "4": "86",
+            "5": "67"
+        },
+        "zone": "norte"
+    },
+    "GasStation-b2e06fdc": {
+        "formatted_address": "Av. Bacharel Tomaz Landim, 4500 - Igap\u007f, Natal - RN, 59104-000, Brazil",
+        "last_update": "2017-11-14T10:29:33.149504",
+        "name": "Posto Jota Flor IV",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7659252,-35.2788799",
+        "price": "3.89",
+        "star_votes": {
+            "1": "80",
+            "2": "8",
+            "3": "60",
+            "4": "21",
+            "5": "30"
+        },
+        "zone": "norte"
+    },
+    "GasStation-b52b96b7": {
+        "formatted_address": "Av. Engenheiro Roberto Freire, 1608-A - Capim Macio, Natal - RN, 59078-600, Brazil",
+        "last_update": "2017-11-14T10:30:09.266169",
+        "name": "Shell",
+        "neighborhood": "Capim Macio",
+        "position": "-5.8591481,-35.1949114",
+        "price": "3.89",
+        "star_votes": {
+            "1": "69",
+            "2": "66",
+            "3": "38",
+            "4": "72",
+            "5": "1"
+        },
+        "zone": "sul"
+    },
+    "GasStation-b59c56a5": {
+        "formatted_address": "R. Francisco Simpl\u007fcio, 245 - Vila de Ponta Negra, Natal - RN, 59090-315, Brazil",
+        "last_update": "2017-11-14T10:30:28.130495",
+        "name": "Lava Jato Do Faninho",
+        "neighborhood": "Ponta Negra",
+        "position": "-5.8902474,-35.1723003",
+        "price": "3.89",
+        "star_votes": {
+            "1": "42",
+            "2": "39",
+            "3": "74",
+            "4": "70",
+            "5": "78"
+        },
+        "zone": "sul"
+    },
+    "GasStation-b6bc328b": {
+        "formatted_address": "Av. Bacharel Tomaz Landim - Igap\u007f, RN, Brazil",
+        "last_update": "2017-11-14T10:29:34.949329",
+        "name": "Av. Bacharel Tomaz Landim sentido Extremoz",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7706404,-35.2674315",
+        "price": "3.89",
+        "star_votes": {
+            "1": "96",
+            "2": "77",
+            "3": "8",
+            "4": "76",
+            "5": "16"
+        },
+        "zone": "norte"
+    },
+    "GasStation-b740d9e4": {
+        "formatted_address": "R. Fabr\u007fcio Gomes Pedrosa, 2300 - Ponta Negra, Natal - RN, 59092-300, Brazil",
+        "last_update": "2017-11-14T10:29:51.042937",
+        "name": "Shell",
+        "neighborhood": "Nordeste",
+        "position": "-5.8829999,-35.1812374",
+        "price": "3.89",
+        "star_votes": {
+            "1": "59",
+            "2": "1",
+            "3": "54",
+            "4": "87",
+            "5": "65"
+        },
+        "zone": "norte"
+    },
+    "GasStation-b7693d30": {
+        "formatted_address": "R. Jaguarari, 5000 - Candel\u007fria, Natal - RN, 59064-500, Brazil",
+        "last_update": "2017-11-14T10:29:50.823707",
+        "name": "Posto S\u007fo Luiz III",
+        "neighborhood": "Nordeste",
+        "position": "-5.8364273,-35.2253484",
+        "price": "3.89",
+        "star_votes": {
+            "1": "17",
+            "2": "70",
+            "3": "89",
+            "4": "26",
+            "5": "32"
+        },
+        "zone": "norte"
+    },
+    "GasStation-b7b6bfc4": {
+        "formatted_address": "Av. Engenheiro Roberto Freire, 2971 - Capim Macio, Natal - RN, 59082-400, Brazil",
+        "last_update": "2017-11-14T10:29:51.929124",
+        "name": "Posto 1002",
+        "neighborhood": "Nordeste",
+        "position": "-5.8521284,-35.2029133",
+        "price": "3.89",
+        "star_votes": {
+            "1": "63",
+            "2": "50",
+            "3": "21",
+            "4": "61",
+            "5": "57"
+        },
+        "zone": "norte"
+    },
+    "GasStation-b7b81bc6": {
+        "formatted_address": "Av. Prudente Morais, 3949 - Lagoa Nova, Natal - RN, 59056-200, Brazil",
+        "last_update": "2017-11-14T10:29:50.141993",
+        "name": "Cirne Pneus Prudente",
+        "neighborhood": "Nordeste",
+        "position": "-5.8167166,-35.2011079",
+        "price": "3.89",
+        "star_votes": {
+            "1": "22",
+            "2": "69",
+            "3": "69",
+            "4": "20",
+            "5": "80"
+        },
+        "zone": "norte"
+    },
+    "GasStation-b7e40c13": {
+        "formatted_address": "Av. Dr. Ruy Pereira dos Santos, 157, S\u007fo Gon\u007falo do Amarante - RN, 59290-000, Brazil",
+        "last_update": "2017-11-14T10:29:57.553463",
+        "name": "Posto Santana 2",
+        "neighborhood": "Nossa Senhora da Apresenta\u007f\u007fo",
+        "position": "-5.7552258,-35.3097071",
+        "price": "3.89",
+        "star_votes": {
+            "1": "6",
+            "2": "4",
+            "3": "84",
+            "4": "97",
+            "5": "4"
+        },
+        "zone": "norte"
+    },
+    "GasStation-b9741bf6": {
+        "formatted_address": "Av. Maria Lacerda Montenegro, 2267-2317 - Nova Parnamirim, Parnamirim - RN, 59150-683, Brazil",
+        "last_update": "2017-11-14T10:30:27.012126",
+        "name": "Borracharia Big Brother",
+        "neighborhood": "Pitimbu",
+        "position": "-5.8930358,-35.204974",
+        "price": "3.89",
+        "star_votes": {
+            "1": "23",
+            "2": "54",
+            "3": "95",
+            "4": "34",
+            "5": "19"
+        },
+        "zone": "sul"
+    },
+    "GasStation-b9e494f5": {
+        "formatted_address": "Av. Dr. Jo\u007fo Medeiros Filho, 3549 - Redinha, Natal - RN, 59122-200, Brazil",
+        "last_update": "2017-11-14T10:30:01.161376",
+        "name": "Posto Tigrao",
+        "neighborhood": "Potengi",
+        "position": "-5.7576092,-35.2439913",
+        "price": "3.89",
+        "star_votes": {
+            "1": "98",
+            "2": "19",
+            "3": "46",
+            "4": "90",
+            "5": "39"
+        },
+        "zone": "norte"
+    },
+    "GasStation-b9efe6f4": {
+        "formatted_address": "R. Gen. Gustavo Cordeiro de Faria, 383 - Ribeira, Natal - RN, 59056-200, Brazil",
+        "last_update": "2017-11-14T10:30:00.708936",
+        "name": "Posto Cirne",
+        "neighborhood": "Paju\u007fara",
+        "position": "-5.780425,-35.198633",
+        "price": "3.89",
+        "star_votes": {
+            "1": "62",
+            "2": "17",
+            "3": "98",
+            "4": "10",
+            "5": "44"
+        },
+        "zone": "norte"
+    },
+    "GasStation-bad7c6ab": {
+        "formatted_address": "Av. Sen. Salgado Filho, 2840 - Lagoa Nova, Natal - RN, 59064-000, Brazil",
+        "last_update": "2017-11-14T10:30:23.856763",
+        "name": "Monteiro",
+        "neighborhood": "Nova Descoberta",
+        "position": "-5.8236071,-35.2088579",
+        "price": "3.89",
+        "star_votes": {
+            "1": "18",
+            "2": "77",
+            "3": "63",
+            "4": "94",
+            "5": "23"
+        },
+        "zone": "sul"
+    },
+    "GasStation-bb52d831": {
+        "formatted_address": "Av. Prudente de Morais, 1308, Natal - RN, 59020-510, Brazil",
+        "last_update": "2017-11-14T10:29:53.274588",
+        "name": "Posto S\u007fo Luiz IV",
+        "neighborhood": "Nordeste",
+        "position": "-5.8004811,-35.2063247",
+        "price": "3.89",
+        "star_votes": {
+            "1": "59",
+            "2": "45",
+            "3": "13",
+            "4": "66",
+            "5": "81"
+        },
+        "zone": "norte"
+    },
+    "GasStation-bcf48a4f": {
+        "formatted_address": "R. dos Canind\u007fs, 1421 - Alecrim, Natal - RN, 59030-600, Brazil",
+        "last_update": "2017-11-14T10:30:29.673280",
+        "name": "Comercial Petroleo e Derivados",
+        "neighborhood": "Alecrim",
+        "position": "-5.8016956,-35.2166929",
+        "price": "3.89",
+        "star_votes": {
+            "1": "61",
+            "2": "54",
+            "3": "96",
+            "4": "10",
+            "5": "84"
+        },
+        "zone": "leste"
+    },
+    "GasStation-bd04fdd7": {
+        "formatted_address": "Av. Dr. Jo\u007fo Medeiros Filho, 4801 - Paju\u007fara, Natal - RN, 59122-518, Brazil",
+        "last_update": "2017-11-14T10:29:39.515624",
+        "name": "Posto Redinha",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7489593,-35.2301408",
+        "price": "3.89",
+        "star_votes": {
+            "1": "91",
+            "2": "15",
+            "3": "35",
+            "4": "48",
+            "5": "1"
+        },
+        "zone": "norte"
+    },
+    "GasStation-bdfb66a7": {
+        "formatted_address": "Av. dos Xavantes, 2591-2631 - Pitimb\u007f, Natal - RN, 59067-600, Brazil",
+        "last_update": "2017-11-14T10:29:53.055200",
+        "name": "Posto Luana",
+        "neighborhood": "Nordeste",
+        "position": "-5.8658151,-35.2261087",
+        "price": "3.89",
+        "star_votes": {
+            "1": "21",
+            "2": "47",
+            "3": "31",
+            "4": "42",
+            "5": "90"
+        },
+        "zone": "norte"
+    },
+    "GasStation-be9744a3": {
+        "formatted_address": "Av. Abel Cabral, 418, Natal - RN, Brazil",
+        "last_update": "2017-11-14T10:30:24.764956",
+        "name": "BR",
+        "neighborhood": "Pitimbu",
+        "position": "-5.8744197,-35.2166758",
+        "price": "3.89",
+        "star_votes": {
+            "1": "54",
+            "2": "80",
+            "3": "68",
+            "4": "6",
+            "5": "84"
+        },
+        "zone": "sul"
+    },
+    "GasStation-bf7bcb77": {
+        "formatted_address": "Av. Pres. Bandeira, 1270 - Alecrim, Natal - RN, 59030-200, Brazil",
+        "last_update": "2017-11-14T10:30:30.352442",
+        "name": "BR",
+        "neighborhood": "Alecrim",
+        "position": "-5.8091094,-35.2119259",
+        "price": "3.89",
+        "star_votes": {
+            "1": "78",
+            "2": "56",
+            "3": "64",
+            "4": "62",
+            "5": "70"
+        },
+        "zone": "leste"
+    },
+    "GasStation-c01f5549": {
+        "formatted_address": "BR 101 KM 0 - Av. Sen. Salgado Filho, S/N - Lagoa Nova, RN, 59030-350, Brazil",
+        "last_update": "2017-11-14T10:30:17.377003",
+        "name": "Posto Petrobr\u007fs Posto Independ\u007fncia",
+        "neighborhood": "Lagoa Nova",
+        "position": "-5.8319639,-35.2119941",
+        "price": "3.89",
+        "star_votes": {
+            "1": "63",
+            "2": "16",
+            "3": "48",
+            "4": "95",
+            "5": "68"
+        },
+        "zone": "sul"
+    },
+    "GasStation-c0274211": {
+        "formatted_address": "Av. Sen. Salgado Filho, 2580 - Candel\u007fria, Natal - RN, 59064-741, Brazil",
+        "last_update": "2017-11-14T10:29:51.482558",
+        "name": "Posto Planalto",
+        "neighborhood": "Nordeste",
+        "position": "-5.8385226,-35.2114787",
+        "price": "3.89",
+        "star_votes": {
+            "1": "25",
+            "2": "93",
+            "3": "26",
+            "4": "12",
+            "5": "95"
+        },
+        "zone": "norte"
+    },
+    "GasStation-c04c770b": {
+        "formatted_address": "Av. Sen. Salgado Filho, 2815 - Lagoa Nova, Natal - RN, 59075-000, Brazil",
+        "last_update": "2017-11-14T10:30:04.539061",
+        "name": "Desk S\u007fo Luiz",
+        "neighborhood": "Salinas",
+        "position": "-5.8661351,-35.2170732",
+        "price": "3.89",
+        "star_votes": {
+            "1": "88",
+            "2": "24",
+            "3": "19",
+            "4": "93",
+            "5": "77"
+        },
+        "zone": "norte"
+    },
+    "GasStation-c45baba9": {
+        "formatted_address": "R. Jaguarari, 4227 - Lagoa Nova, Natal - RN, 59064-500, Brazil",
+        "last_update": "2017-11-14T10:29:38.584884",
+        "name": "Posto Via Sul",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.8317188,-35.2227884",
+        "price": "3.89",
+        "star_votes": {
+            "1": "37",
+            "2": "31",
+            "3": "4",
+            "4": "27",
+            "5": "68"
+        },
+        "zone": "norte"
+    },
+    "GasStation-c56fad2f": {
+        "formatted_address": "Av. Rio Grande do Sul, 149 - Cidade da Esperan\u007fa, Natal - RN, 59071-300, Brazil",
+        "last_update": "2017-11-14T10:30:04.758764",
+        "name": "Posto Esperan\u007fa Ltda",
+        "neighborhood": "Salinas",
+        "position": "-5.8259211,-35.2414604",
+        "price": "3.89",
+        "star_votes": {
+            "1": "86",
+            "2": "72",
+            "3": "59",
+            "4": "57",
+            "5": "42"
+        },
+        "zone": "norte"
+    },
+    "GasStation-c79455b3": {
+        "formatted_address": "Av. Ayrton Senna, 1078 - Capim Macio, Natal - RN, 59080-101, Brazil",
+        "last_update": "2017-11-14T10:30:22.533620",
+        "name": "Ipiranga",
+        "neighborhood": "Ne\u007fpolis",
+        "position": "-5.8649796,-35.2048246",
+        "price": "3.89",
+        "star_votes": {
+            "1": "38",
+            "2": "81",
+            "3": "73",
+            "4": "43",
+            "5": "14"
+        },
+        "zone": "sul"
+    },
+    "GasStation-c95ef394": {
+        "formatted_address": "Av. Capit\u007fo-Mor Gouveia, 1328 - Ns. de Nazar\u007f, Natal - RN, 59060-400, Brazil",
+        "last_update": "2017-11-14T10:30:14.928275",
+        "name": "Posto Jota Flor III",
+        "neighborhood": "Capim Macio",
+        "position": "-5.8212883,-35.2324764",
+        "price": "3.89",
+        "star_votes": {
+            "1": "98",
+            "2": "70",
+            "3": "32",
+            "4": "25",
+            "5": "89"
+        },
+        "zone": "sul"
+    },
+    "GasStation-cb7ced0d": {
+        "formatted_address": "RUA FABRICIO G. PEDROZA, 2300. - Ponta Negra, Natal - RN, 59092-390, Brazil",
+        "last_update": "2017-11-14T10:30:11.757345",
+        "name": "SP COMERCIO E REPRESENTACOES LTDA",
+        "neighborhood": "Capim Macio",
+        "position": "-5.86761,-35.21235",
+        "price": "3.89",
+        "star_votes": {
+            "1": "65",
+            "2": "24",
+            "3": "72",
+            "4": "67",
+            "5": "88"
+        },
+        "zone": "sul"
+    },
+    "GasStation-cc756f05": {
+        "formatted_address": "Av. Pres. Bandeira, 1270 - Lagoa Seca, Natal - RN, 59031-200, Brazil",
+        "last_update": "2017-11-14T10:30:39.340068",
+        "name": "Posto BR - Posto Brasil",
+        "neighborhood": "Bom Pastor",
+        "position": "-5.8090936,-35.2120103",
+        "price": "3.89",
+        "star_votes": {
+            "1": "20",
+            "2": "82",
+            "3": "81",
+            "4": "69",
+            "5": "63"
+        },
+        "zone": "oeste"
+    },
+    "GasStation-ce0ba11c": {
+        "formatted_address": "Av. Sen. Salgado Filho, 2102 - Lagoa Nova, Natal - RN, 59056-500, Brazil",
+        "last_update": "2017-11-14T10:29:46.297497",
+        "name": "Posto Cidade Natal",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.8150577,-35.2061564",
+        "price": "3.89",
+        "star_votes": {
+            "1": "97",
+            "2": "26",
+            "3": "47",
+            "4": "13",
+            "5": "52"
+        },
+        "zone": "norte"
+    },
+    "GasStation-cfaf0b69": {
+        "formatted_address": "RUA FELIZARDO FIRMINO MOURA, 114 - Nordeste, Natal - RN, 59042-200, Brazil",
+        "last_update": "2017-11-14T10:29:41.525491",
+        "name": "POSTO ESTRELA LTDA",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7957981,-35.2398969",
+        "price": "3.89",
+        "star_votes": {
+            "1": "37",
+            "2": "47",
+            "3": "24",
+            "4": "73",
+            "5": "8"
+        },
+        "zone": "norte"
+    },
+    "GasStation-d02e785e": {
+        "formatted_address": "Av. das Alagoas, 358 - Ne\u007fpolis, Natal - RN, Brazil",
+        "last_update": "2017-11-14T10:29:53.718663",
+        "name": "Desk Monte Belo",
+        "neighborhood": "Nordeste",
+        "position": "-5.8635251,-35.2123564",
+        "price": "3.89",
+        "star_votes": {
+            "1": "53",
+            "2": "9",
+            "3": "62",
+            "4": "50",
+            "5": "12"
+        },
+        "zone": "norte"
+    },
+    "GasStation-d083c0b0": {
+        "formatted_address": "Av. Dr. Jo\u007fo Medeiros Filho, 6181 - Redinha, Natal - RN, 59122-770, Brazil",
+        "last_update": "2017-11-14T10:29:59.125395",
+        "name": "Shell",
+        "neighborhood": "Paju\u007fara",
+        "position": "-5.7448903,-35.2207272",
+        "price": "3.89",
+        "star_votes": {
+            "1": "33",
+            "2": "60",
+            "3": "77",
+            "4": "10",
+            "5": "20"
+        },
+        "zone": "norte"
+    },
+    "GasStation-d0dfdeb9": {
+        "formatted_address": "Av. Bacharel Tomaz Landim, 3540 - Igap\u007f, Natal - RN, 59104-000, Brazil",
+        "last_update": "2017-11-14T10:29:41.986111",
+        "name": "Posto Planalto Igap\u007f",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7688021,-35.2717322",
+        "price": "3.89",
+        "star_votes": {
+            "1": "84",
+            "2": "26",
+            "3": "21",
+            "4": "48",
+            "5": "5"
+        },
+        "zone": "norte"
+    },
+    "GasStation-d0f43da4": {
+        "formatted_address": "Rua Papa Jo\u007fo XXIII, 1550 - M\u007fe Lu\u007fza, Natal - RN, 59014-000, Brazil",
+        "last_update": "2017-11-14T10:30:38.217402",
+        "name": "LAF COM DE COMB LTDA",
+        "neighborhood": "Santos Reis",
+        "position": "-5.7990437,-35.1853305",
+        "price": "3.89",
+        "star_votes": {
+            "1": "84",
+            "2": "62",
+            "3": "29",
+            "4": "67",
+            "5": "23"
+        },
+        "zone": "leste"
+    },
+    "GasStation-d2aa30dc": {
+        "formatted_address": "Av. Rio Branco, 180 - Ribeira, Natal - RN, 59012-000, Brazil",
+        "last_update": "2017-11-14T10:30:31.927934",
+        "name": "Shell",
+        "neighborhood": "Areia Preta",
+        "position": "-5.7787195,-35.2040547",
+        "price": "3.89",
+        "star_votes": {
+            "1": "9",
+            "2": "70",
+            "3": "86",
+            "4": "86",
+            "5": "75"
+        },
+        "zone": "leste"
+    },
+    "GasStation-d2c16f6a": {
+        "formatted_address": "Av. Engenheiro Roberto Freire, 753 - Capim Macio, Natal - RN, 59078-600, Brazil",
+        "last_update": "2017-11-14T10:30:24.527693",
+        "name": "Posto Petrobras",
+        "neighborhood": "Nova Descoberta",
+        "position": "-5.85552,-35.1996",
+        "price": "3.89",
+        "star_votes": {
+            "1": "9",
+            "2": "90",
+            "3": "49",
+            "4": "46",
+            "5": "26"
+        },
+        "zone": "sul"
+    },
+    "GasStation-d3baa1ad": {
+        "formatted_address": "av Pres Ranieri Mazzili 4350 - Av. Pres. Raniere Mazili - Felipe Camar\u007fo, Natal - RN, 59074-400, Brazil",
+        "last_update": "2017-11-14T10:29:52.830258",
+        "name": "Posto 30 de Setembro - Posto Felipe Camar\u007fo",
+        "neighborhood": "Nordeste",
+        "position": "-5.8188402,-35.2627515",
+        "price": "3.89",
+        "star_votes": {
+            "1": "18",
+            "2": "79",
+            "3": "29",
+            "4": "40",
+            "5": "78"
+        },
+        "zone": "norte"
+    },
+    "GasStation-d4079dc6": {
+        "formatted_address": "Natal - State of Rio Grande do Norte, Brazil",
+        "last_update": "2017-11-14T10:30:37.540270",
+        "name": "Posto de Comando Ambiental",
+        "neighborhood": "Tirol",
+        "position": "-5.8125206,-35.1943661",
+        "price": "3.89",
+        "star_votes": {
+            "1": "41",
+            "2": "42",
+            "3": "53",
+            "4": "92",
+            "5": "75"
+        },
+        "zone": "leste"
+    },
+    "GasStation-d4e49391": {
+        "formatted_address": "Av. Sen. Salgado Filho, 2840 - Lagoa Nova, Natal - RN, 59075-000, Brazil",
+        "last_update": "2017-11-14T10:30:12.661138",
+        "name": "Posto Br - Posto Natal 2",
+        "neighborhood": "Capim Macio",
+        "position": "-5.8235199,-35.2088784",
+        "price": "3.89",
+        "star_votes": {
+            "1": "73",
+            "2": "15",
+            "3": "51",
+            "4": "72",
+            "5": "7"
+        },
+        "zone": "sul"
+    },
+    "GasStation-d5c85a6d": {
+        "formatted_address": "Av. Prudente de Morais, 1854 - Candel\u007fria, Natal - RN, 59022-545, Brazil",
+        "last_update": "2017-11-14T10:29:42.892844",
+        "name": "Posto Candel\u007fria",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.8036772,-35.2071448",
+        "price": "3.89",
+        "star_votes": {
+            "1": "9",
+            "2": "45",
+            "3": "51",
+            "4": "46",
+            "5": "31"
+        },
+        "zone": "norte"
+    },
+    "GasStation-d63b5d77": {
+        "formatted_address": "Travessa Dois de Novembro, 3, Rio Grande do Norte, Brazil",
+        "last_update": "2017-11-14T10:30:34.870115",
+        "name": "BR",
+        "neighborhood": "Lagoa Seca",
+        "position": "-5.7932461,-35.2133429",
+        "price": "3.89",
+        "star_votes": {
+            "1": "95",
+            "2": "9",
+            "3": "73",
+            "4": "25",
+            "5": "80"
+        },
+        "zone": "leste"
+    },
+    "GasStation-d7437df7": {
+        "formatted_address": "Av. Capit\u007fo-Mor Gouveia, 1245 - Dix-Sept Rosado, Natal - RN, 59060-400, Brazil",
+        "last_update": "2017-11-14T10:30:40.682851",
+        "name": "Posto BR",
+        "neighborhood": "Dix-Sept Rosado",
+        "position": "-5.8210018,-35.2332796",
+        "price": "3.89",
+        "star_votes": {
+            "1": "18",
+            "2": "92",
+            "3": "15",
+            "4": "67",
+            "5": "82"
+        },
+        "zone": "oeste"
+    },
+    "GasStation-d8c41e78": {
+        "formatted_address": "Av. Ayrton Senna, 1507, Rio Grande do Norte, Brazil",
+        "last_update": "2017-11-14T10:30:13.574957",
+        "name": "Posto BR",
+        "neighborhood": "Capim Macio",
+        "position": "-5.8904745,-35.1989204",
+        "price": "3.89",
+        "star_votes": {
+            "1": "69",
+            "2": "34",
+            "3": "45",
+            "4": "8",
+            "5": "13"
+        },
+        "zone": "sul"
+    },
+    "GasStation-d92610de": {
+        "formatted_address": "Avenida Governador Tarc\u007fsio de Vasconcelos Maia, 1450 - Neopolis II, Natal - RN, 59065-780, Brazil",
+        "last_update": "2017-11-14T10:30:22.074510",
+        "name": "Petrobras",
+        "neighborhood": "Ne\u007fpolis",
+        "position": "-5.8422815,-35.2207624",
+        "price": "3.89",
+        "star_votes": {
+            "1": "45",
+            "2": "78",
+            "3": "92",
+            "4": "41",
+            "5": "43"
+        },
+        "zone": "sul"
+    },
+    "GasStation-d9bf5e75": {
+        "formatted_address": "Av. Maranguape, 3230 - Nossa Sra. da Apresenta\u007f\u007fo, Natal - RN, 59114-002, Brazil",
+        "last_update": "2017-11-14T10:29:39.968071",
+        "name": "Terreno",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7457994,-35.2751465",
+        "price": "3.89",
+        "star_votes": {
+            "1": "46",
+            "2": "21",
+            "3": "31",
+            "4": "10",
+            "5": "58"
+        },
+        "zone": "norte"
+    },
+    "GasStation-da446ecb": {
+        "formatted_address": "Av. da Integra\u007f\u007fo, 1450 - Lagoa Nova, Natal - RN, 59065-780, Brazil",
+        "last_update": "2017-11-14T10:29:53.503175",
+        "name": "Flor e Oliveira",
+        "neighborhood": "Nordeste",
+        "position": "-5.8392059,-35.2240277",
+        "price": "3.89",
+        "star_votes": {
+            "1": "6",
+            "2": "82",
+            "3": "52",
+            "4": "37",
+            "5": "86"
+        },
+        "zone": "norte"
+    },
+    "GasStation-da4d50e3": {
+        "formatted_address": "R. Fonseca e Silva, 1088 - Alecrim, Natal - RN, 59030-270, Brazil",
+        "last_update": "2017-11-14T10:29:44.684269",
+        "name": "Posto campo belo",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7929244,-35.2145679",
+        "price": "3.89",
+        "star_votes": {
+            "1": "48",
+            "2": "9",
+            "3": "32",
+            "4": "57",
+            "5": "7"
+        },
+        "zone": "norte"
+    },
+    "GasStation-dbf258e0": {
+        "formatted_address": "Av. Sen. Salgado Filho - Candel\u007fria, RN, Brazil",
+        "last_update": "2017-11-19 12:16:27.509995-03:00",
+        "name": "Posto BR",
+        "neighborhood": "Candel\u007fria",
+        "position": "-5.8435266,-35.2089487",
+        "price": "3.5",
+        "star_votes": {
+            "1": "93",
+            "2": "58",
+            "3": "10",
+            "4": "17",
+            "5": "102"
+        },
+        "zone": "sul"
+    },
+    "GasStation-dd16f46d": {
+        "formatted_address": "1182 - Estr. da Lagoa Seca, 1106, Parnamirim - RN, Brazil",
+        "last_update": "2017-11-14T10:30:28.798149",
+        "name": "POSTO COENGEN",
+        "neighborhood": "Ponta Negra",
+        "position": "-5.9220262,-35.2099612",
+        "price": "3.89",
+        "star_votes": {
+            "1": "5",
+            "2": "18",
+            "3": "62",
+            "4": "67",
+            "5": "54"
+        },
+        "zone": "sul"
+    },
+    "GasStation-defb6829": {
+        "formatted_address": "Av. Bacharel Tomaz Landim, S/n - S\u007fo gon\u007falo do Amarante, Natal - RN, Brazil",
+        "last_update": "2017-11-14T10:29:33.370473",
+        "name": "Posto Novo Horizonte",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7720246,-35.2631251",
+        "price": "3.89",
+        "star_votes": {
+            "1": "53",
+            "2": "42",
+            "3": "89",
+            "4": "75",
+            "5": "98"
+        },
+        "zone": "norte"
+    },
+    "GasStation-dfd00c42": {
+        "formatted_address": "Av. Alm. Alexandrino de Alencar, 1000 - Lagoa Seca, Natal - RN, 59022-350, Brazil",
+        "last_update": "2017-11-14T10:30:19.615724",
+        "name": "Posto La\u007fs XIX",
+        "neighborhood": "Lagoa Nova",
+        "position": "-5.8044918,-35.2092256",
+        "price": "3.89",
+        "star_votes": {
+            "1": "35",
+            "2": "55",
+            "3": "69",
+            "4": "94",
+            "5": "67"
+        },
+        "zone": "sul"
+    },
+    "GasStation-e167e715": {
+        "formatted_address": "Av. Ayrton Senna, 2901 - Capim Macio, RN, Brazil",
+        "last_update": "2017-11-14T10:30:21.632865",
+        "name": "Petrobras",
+        "neighborhood": "Ne\u007fpolis",
+        "position": "-5.8789584,-35.2015928",
+        "price": "3.89",
+        "star_votes": {
+            "1": "70",
+            "2": "25",
+            "3": "33",
+            "4": "31",
+            "5": "12"
+        },
+        "zone": "sul"
+    },
+    "GasStation-e1f3f495": {
+        "formatted_address": "R. Jaguarari, 1974 - Lagoa Nova, Natal - RN, 59054-500, Brazil",
+        "last_update": "2017-11-14T10:30:16.052428",
+        "name": "Shell",
+        "neighborhood": "Lagoa Nova",
+        "position": "-5.8160266,-35.2176083",
+        "price": "3.89",
+        "star_votes": {
+            "1": "56",
+            "2": "62",
+            "3": "95",
+            "4": "56",
+            "5": "10"
+        },
+        "zone": "sul"
+    },
+    "GasStation-e48fee33": {
+        "formatted_address": "5300 - Av. D\u007fo Silveira - Candel\u007fria, RN, Brazil",
+        "last_update": "2017-11-14T10:30:08.135151",
+        "name": "Posto Belverde",
+        "neighborhood": "Candel\u007fria",
+        "position": "-5.8639597,-35.2162152",
+        "price": "3.89",
+        "star_votes": {
+            "1": "54",
+            "2": "42",
+            "3": "93",
+            "4": "17",
+            "5": "87"
+        },
+        "zone": "sul"
+    },
+    "GasStation-e772ba17": {
+        "formatted_address": "Avenida Interventor M\u007frio C\u007fmara, 2333 - Dix-Sept Rosado, Natal - RN, 59060-600, Brazil",
+        "last_update": "2017-11-14T10:30:39.999256",
+        "name": "Petrobras",
+        "neighborhood": "Cidade da Esperan\u007fa",
+        "position": "-5.8175428,-35.2282382",
+        "price": "3.89",
+        "star_votes": {
+            "1": "89",
+            "2": "15",
+            "3": "3",
+            "4": "72",
+            "5": "79"
+        },
+        "zone": "oeste"
+    },
+    "GasStation-e7b988a1": {
+        "formatted_address": "Av. Moema Tinoco da Cunha Lima, 3208 - Paju\u007fara, Natal - RN, Brazil",
+        "last_update": "2017-11-14T10:29:59.345354",
+        "name": "Ale Moda Fitness",
+        "neighborhood": "Paju\u007fara",
+        "position": "-5.7232913,-35.2411221",
+        "price": "3.89",
+        "star_votes": {
+            "1": "57",
+            "2": "55",
+            "3": "93",
+            "4": "61",
+            "5": "64"
+        },
+        "zone": "norte"
+    },
+    "GasStation-e8afb714": {
+        "formatted_address": "Avenida Dao Silveira, 4416 - Candelaria, Natal - RN, 59064-000, Brazil",
+        "last_update": "2017-11-14T10:29:40.187550",
+        "name": "Potiguar Com\u007frcio de Caminhoes",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7576472,-35.2435895",
+        "price": "3.89",
+        "star_votes": {
+            "1": "72",
+            "2": "72",
+            "3": "12",
+            "4": "4",
+            "5": "53"
+        },
+        "zone": "norte"
+    },
+    "GasStation-eb04d489": {
+        "formatted_address": "Av. Bernardo Vieira, 1050 - Quintas, Natal - RN, 59051-000, Brazil",
+        "last_update": "2017-11-14T10:30:38.890213",
+        "name": "Petrobras",
+        "neighborhood": "Bom Pastor",
+        "position": "-5.8040297,-35.2297931",
+        "price": "3.89",
+        "star_votes": {
+            "1": "4",
+            "2": "63",
+            "3": "42",
+            "4": "47",
+            "5": "26"
+        },
+        "zone": "oeste"
+    },
+    "GasStation-ebd72e58": {
+        "formatted_address": "Av. Sen. Salgado Filho, 2964 - Candel\u007fria, Natal - RN, 59064-900, Brazil",
+        "last_update": "2017-11-14T10:30:07.676114",
+        "name": "Gasoline",
+        "neighborhood": "Candel\u007fria",
+        "position": "-5.850502,-35.2098409",
+        "price": "3.89",
+        "star_votes": {
+            "1": "61",
+            "2": "26",
+            "3": "33",
+            "4": "47",
+            "5": "68"
+        },
+        "zone": "sul"
+    },
+    "GasStation-ec1b857d": {
+        "formatted_address": "R. Apodi, 349 - Tirol, Natal - RN, 59020-130, Brazil",
+        "last_update": "2017-11-14T10:29:47.649555",
+        "name": "Posto da Tamarineira",
+        "neighborhood": "Nordeste",
+        "position": "-5.7900097,-35.2042857",
+        "price": "3.89",
+        "star_votes": {
+            "1": "94",
+            "2": "37",
+            "3": "56",
+            "4": "13",
+            "5": "55"
+        },
+        "zone": "norte"
+    },
+    "GasStation-ece4ac9a": {
+        "formatted_address": "Estr. da Lagoa Seca, Parnamirim - RN, Brazil",
+        "last_update": "2017-11-14T10:30:29.017584",
+        "name": "Petrobras",
+        "neighborhood": "Ponta Negra",
+        "position": "-5.9218273,-35.209877",
+        "price": "3.89",
+        "star_votes": {
+            "1": "31",
+            "2": "13",
+            "3": "27",
+            "4": "65",
+            "5": "45"
+        },
+        "zone": "sul"
+    },
+    "GasStation-edc8ce0b": {
+        "formatted_address": "Av. das Fronteiras, 2370 - Potengi, Natal - RN, 59108-050, Brazil",
+        "last_update": "2017-11-14T10:29:34.051917",
+        "name": "Posto S\u007fo Jo\u007fo",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7650287,-35.2659621",
+        "price": "3.89",
+        "star_votes": {
+            "1": "5",
+            "2": "23",
+            "3": "63",
+            "4": "27",
+            "5": "48"
+        },
+        "zone": "norte"
+    },
+    "GasStation-ef4e1f07": {
+        "formatted_address": "Av. Dr. Jo\u007fo Medeiros Filho, 6000 - Redinha, Natal - RN, 59122-200, Brazil",
+        "last_update": "2017-11-14T10:29:44.927236",
+        "name": "A. S. C. Combustiveis e Lubrificantes",
+        "neighborhood": "Igap\u007f",
+        "position": "-5.7460392,-35.2248579",
+        "price": "3.89",
+        "star_votes": {
+            "1": "80",
+            "2": "49",
+            "3": "82",
+            "4": "9",
+            "5": "86"
+        },
+        "zone": "norte"
+    },
+    "GasStation-efbce153": {
+        "formatted_address": "Av. Maria Lacerda Montenegro, 971 - Nova Parnamirim, Parnamirim - RN, 59150-500, Brazil",
+        "last_update": "2017-11-14T10:30:22.973091",
+        "name": "Porcino E Alvares Ltda",
+        "neighborhood": "Ne\u007fpolis",
+        "position": "-5.8831448,-35.2127218",
+        "price": "3.89",
+        "star_votes": {
+            "1": "12",
+            "2": "25",
+            "3": "96",
+            "4": "69",
+            "5": "84"
+        },
+        "zone": "sul"
+    },
+    "GasStation-efcfbb32": {
+        "formatted_address": "Av. Engenheiro Roberto Freire, 1456 - Capim Macio, Natal - RN, 59080-400, Brazil",
+        "last_update": "2017-11-14T10:30:05.212186",
+        "name": "J a Dias Com\u007frcio e Representa\u007f\u007fo",
+        "neighborhood": "Salinas",
+        "position": "-5.8556134,-35.1997057",
+        "price": "3.89",
+        "star_votes": {
+            "1": "37",
+            "2": "39",
+            "3": "8",
+            "4": "59",
+            "5": "44"
+        },
+        "zone": "norte"
+    },
+    "GasStation-f0f73833": {
+        "formatted_address": "Av. Moema Tinoco da Cunha Lima, 2490 - Paju\u007fara, Natal - RN, 59133-090, Brazil",
+        "last_update": "2017-11-14T10:29:53.938367",
+        "name": "A. de M. Viana - Posto",
+        "neighborhood": "Nordeste",
+        "position": "-5.7266966,-35.2356758",
+        "price": "3.89",
+        "star_votes": {
+            "1": "75",
+            "2": "33",
+            "3": "69",
+            "4": "68",
+            "5": "54"
+        },
+        "zone": "norte"
+    },
+    "GasStation-f28b1973": {
+        "formatted_address": "R. Jaguarari, 1974 - Lagoa Nova, Natal - RN, 59054-150, Brazil",
+        "last_update": "2017-11-14T10:30:18.055949",
+        "name": "I. M. Queiroz",
+        "neighborhood": "Lagoa Nova",
+        "position": "-5.8159895,-35.2176374",
+        "price": "3.89",
+        "star_votes": {
+            "1": "44",
+            "2": "65",
+            "3": "86",
+            "4": "6",
+            "5": "14"
+        },
+        "zone": "sul"
+    },
+    "GasStation-f4081e6b": {
+        "formatted_address": "Av. Engenheiro Roberto Freire, 1456 - Capim Macio, Natal - RN, 59082-400, Brazil",
+        "last_update": "2017-11-14T10:30:22.753668",
+        "name": "Petrobras",
+        "neighborhood": "Ne\u007fpolis",
+        "position": "-5.8556134,-35.1997057",
+        "price": "3.89",
+        "star_votes": {
+            "1": "82",
+            "2": "78",
+            "3": "22",
+            "4": "44",
+            "5": "32"
+        },
+        "zone": "sul"
+    },
+    "GasStation-f4a84fd0": {
+        "formatted_address": "Av. Amintas Barros, 2672 - Lagoa Nova, Natal - RN, 59056-265, Brazil",
+        "last_update": "2017-11-14T10:30:15.592972",
+        "name": "Posto Ipiranga",
+        "neighborhood": "Lagoa Nova",
+        "position": "-5.8176209,-35.2177068",
+        "price": "3.89",
+        "star_votes": {
+            "1": "41",
+            "2": "57",
+            "3": "3",
+            "4": "66",
+            "5": "23"
+        },
+        "zone": "sul"
+    },
+    "GasStation-f74129f8": {
+        "formatted_address": "Av. Sen. Salgado Filho, 21 - Candel\u007fria, Natal - RN, 59064-741, Brazil",
+        "last_update": "2017-11-14T10:30:07.001660",
+        "name": "JVC Comercial",
+        "neighborhood": "Candel\u007fria",
+        "position": "-5.8264875,-35.2096307",
+        "price": "3.89",
+        "star_votes": {
+            "1": "73",
+            "2": "25",
+            "3": "13",
+            "4": "17",
+            "5": "52"
+        },
+        "zone": "sul"
+    },
+    "GasStation-f891f478": {
+        "formatted_address": "R. Dr. Mario Neg\u007fcio, 2202 - Alecrim, Natal - RN, 59042-035, Brazil",
+        "last_update": "2017-11-14T10:30:04.089872",
+        "name": "Petrobras",
+        "neighborhood": "Quintas",
+        "position": "-5.7978225,-35.2356721",
+        "price": "3.89",
+        "star_votes": {
+            "1": "1",
+            "2": "92",
+            "3": "22",
+            "4": "44",
+            "5": "55"
+        },
+        "zone": "norte"
+    },
+    "GasStation-fba71de5": {
+        "formatted_address": "Av. Capit\u007fo-Mor Gouveia - Felipe Camar\u007fo, RN, Brazil",
+        "last_update": "2017-11-14T10:30:40.449716",
+        "name": "BR",
+        "neighborhood": "Cidade Nova",
+        "position": "-5.8212872,-35.2324166",
+        "price": "3.89",
+        "star_votes": {
+            "1": "85",
+            "2": "23",
+            "3": "67",
+            "4": "59",
+            "5": "70"
+        },
+        "zone": "oeste"
+    },
+    "GasStation-fc045c5e": {
+        "formatted_address": "Av. Lima e Silva, 1509, Natal - RN, 59075-710, Brazil",
+        "last_update": "2017-11-14T10:30:16.274446",
+        "name": "Auto Center G\u007fs",
+        "neighborhood": "Lagoa Nova",
+        "position": "-5.8195183,-35.2245702",
+        "price": "3.89",
+        "star_votes": {
+            "1": "42",
+            "2": "59",
+            "3": "18",
+            "4": "16",
+            "5": "12"
+        },
+        "zone": "sul"
+    },
+    "GasStation-fd356ba7": {
+        "formatted_address": "Av. D\u007fo Silveira, 3712 - Candel\u007fria, Natal - RN, 59066-180, Brazil",
+        "last_update": "2017-11-14T10:30:09.042792",
+        "name": "Petrobras",
+        "neighborhood": "Candel\u007fria",
+        "position": "-5.8526317,-35.2111763",
+        "price": "3.89",
+        "star_votes": {
+            "1": "41",
+            "2": "35",
+            "3": "99",
+            "4": "84",
+            "5": "29"
+        },
+        "zone": "sul"
+    },
+    "GasStation-fe4a29d1": {
+        "formatted_address": "Av. das Alagoas, 358 - Ne\u007fpolis, Natal - RN, 59086-200, Brazil",
+        "last_update": "2017-11-14T10:30:21.180040",
+        "name": "Checkup Automotivo",
+        "neighborhood": "Ne\u007fpolis",
+        "position": "-5.8633408,-35.212463",
+        "price": "3.89",
+        "star_votes": {
+            "1": "70",
+            "2": "87",
+            "3": "20",
+            "4": "35",
+            "5": "32"
+        },
+        "zone": "sul"
+    },
+    "GasStation-fe826529": {
+        "formatted_address": "Natal - State of Rio Grande do Norte, Brazil",
+        "last_update": "2017-11-14T10:30:37.770684",
+        "name": "Petrobras",
+        "neighborhood": "Tirol",
+        "position": "-5.7939646,-35.1989197",
+        "price": "3.89",
+        "star_votes": {
+            "1": "93",
+            "2": "49",
+            "3": "8",
+            "4": "50",
+            "5": "81"
+        },
+        "zone": "leste"
+    },
+    "GasStation-febb25f4": {
+        "formatted_address": "Avenida Industrial Jo\u007fo Francisco da Mota, 3459 - Bom Pastor, RN, 59000-000, Brazil",
+        "last_update": "2017-11-14T10:30:38.446963",
+        "name": "Petrobras",
+        "neighborhood": "Bom Pastor",
+        "position": "-5.8054468,-35.2397064",
+        "price": "3.89",
+        "star_votes": {
+            "1": "86",
+            "2": "97",
+            "3": "12",
+            "4": "93",
+            "5": "3"
+        },
+        "zone": "oeste"
+    },
+    "GasStation-fee4ad2b": {
+        "formatted_address": "Av. Engenheiro Roberto Freire, 2952 - Capim Macio, RN, 59080-900, Brazil",
+        "last_update": "2017-11-14T10:30:05.432377",
+        "name": "Natal Posto 2",
+        "neighborhood": "Salinas",
+        "position": "-5.8518417,-35.2043497",
+        "price": "3.89",
+        "star_votes": {
+            "1": "39",
+            "2": "70",
+            "3": "60",
+            "4": "99",
+            "5": "22"
+        },
+        "zone": "norte"
+    }
+}

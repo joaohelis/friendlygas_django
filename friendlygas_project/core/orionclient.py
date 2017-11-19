@@ -266,10 +266,12 @@ class OrionClient(object):
         if attribute:
             url = url + ('attributes',attribute)
 
+
+        url = self._make_url(*url)+'?limit=1000'
         print url
         r = self.do_request(
                 'get',
-                self._make_url(*url),
+                url,
                 self.get_headers(exclude_content_type=True)
                 )
         if r:
