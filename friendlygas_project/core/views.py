@@ -109,13 +109,23 @@ def update_ckan_database_resource(domain, entity_id):
 	client = RemoteCKAN('http://104.236.54.23', apikey='eb5346ab-0c53-4b1f-a0a4-f4be797db23b', user_agent=ua)
 	# file_name = save_gas_stations_as_csv(get_orion_client())
 	file_name = update_json_and_save_csv(get_orion_client(), entity_id)
+	file_path_csv = 'friendlygas_project/core/media/' + file_name
+	file_path_json = 'friendlygas_project/core/media/gas_stations_data.json'
 	date = str(datetime.datetime.now(pytz.timezone('America/Recife')))
 	client.action.resource_create(	
 	    package_id='ac335d1a-098c-4f18-882c-03950ddc5d7c',
 	    name = 'Postos de Combustíveis - Natal - RN - ' + date,
 	    description = 'Este arquivo contém as informações dos Postos de Combustíveis de Natal - RN.',
 	    format = 'csv',
+	    upload = open(file_path_csv, 'rb'),
 	    url = 'http://' + domain + '/' + 'media' + '/' + file_name)
+	# client.action.resource_create(	
+	#     package_id='ac335d1a-098c-4f18-882c-03950ddc5d7c',
+	#     name = 'Postos de Combustíveis - Natal - RN - ' + date,
+	#     description = 'Este arquivo contém as informações dos Postos de Combustíveis de Natal - RN.',
+	#     format = 'json',
+	#     upload = open(file_path_json, 'rb'),
+	#     url = 'http://' + domain + '/' + 'media' + '/gas_stations_data.json')
 
 def update_entity_attributes(request):
 	orion_client = get_orion_client()
